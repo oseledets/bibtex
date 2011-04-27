@@ -1,0 +1,338 @@
+\def\YEAR{2010}
+%
+%  hyperref parameters
+%
+\usepackage[unicode=true,plainpages=false]{hyperref} 
+\usepackage{graphicx}
+\hypersetup{colorlinks=true,linkcolor=magenta,anchorcolor=magenta,urlcolor=blue,citecolor=blue}
+\newcommand*{\doi}[1]{doi: \href{http://dx.doi.org/#1}{#1}}
+%
+%  algorithm, algorithmic + algorithmic-fix
+%
+\usepackage{algorithmic} 
+%\NeedsTeXFormat{LaTeX2e}[1994/12/01]
+%\ProvidesPackage{algorithmic-fix}[2008/03/01 v0.2 Fixes algorithmic for hyperref (caption@sommerfee.de)]
+% 1. Replace the two wrong \refstepcounter's with \stepcounter's
+%\begingroup
+%  \long\def\x#1\refstepcounter#2\@nil{%
+%    \endgroup
+%    \def\ALC@item[##1]{#1\stepcounter#2}}%
+%\expandafter\x\ALC@item[{#1}]\@nil
+%\newcommand\ALC@list{%
+%  \begingroup
+%    \long\def\x\refstepcounter##1\@nil{%
+%      \endgroup
+%      \def\ALC@it{\stepcounter##1}}%
+%  \expandafter\x\ALC@it\@nil
+%  \let\list\ORI@list\list}%
+%\renewcommand\ALC@setref{}%
+% 2. Define a unique \theHALC@line
+%\newcounter{algorithmic}
+%\let\ORI@algorithmic\algorithmic
+%\def\algorithmic{%
+%  \refstepcounter{algorithmic}%
+%  \let\ORI@list\list\let\list\ALC@list\ORI@algorithmic}
+%\def\theHALC@line{\thealgorithmic-\theALC@line}
+
+\usepackage[ruled]{algorithm} 
+%
+% page layout 
+%
+\usepackage[a4paper]{geometry}
+\emergencystretch = 5pt
+\oddsidemargin = 5mm 
+\topmargin =  -20mm
+\textwidth = 160mm 
+\textheight = 240mm 
+\nonfrenchspacing
+\hfuzz = 0.5pt
+%
+%  preprint title page
+%
+\ifnum\language=\l@russian
+ \def\ppmake{\ppmakerus}
+\else
+ \def\ppmake{\ppmakeeng}
+\fi
+
+\def\ppmakeeng{\begin{titlepage}
+\hypersetup{urlcolor=blue}
+\begin{center} \begin{tabular}{p{.5\textwidth}p{.5\textwidth}}
+    \begin{tabular}{l}
+      Institute of Numerical Mathematics \\[.15mm]
+      Russian Academy of Sciences        \\[.15mm]
+      119333, Moscow, Gubkina 8          \\[.15mm]
+     \url{www.inm.ras.ru}
+    \end{tabular} 
+      & \noindent \hfill 
+   \begin{tabular}{c}
+   $\left[\mbox{%
+   \begin{tabular}{ccc}
+     P & U & B \\
+     I & N & M \\
+     R & A & S 
+   \end{tabular}%
+   }\right]$ \\
+     \url{pub.inm.ras.ru} 
+   \end{tabular}  
+\end{tabular} \end{center}
+%\vskip -6mm \noindent \hrule
+%
+\vskip 40mm
+\begin{center}
+\Large \it \ppauthor
+\end{center}
+\begin{center}
+\LARGE \sc \pptitle
+\end{center}
+\vskip 20mm
+\hbox to \textwidth{\large Preprint \ppnumber \hfil \ppdate }
+\vfill
+\begin{center}
+\includegraphics[width=40mm]{logo.pdf} \\[10pt]
+{\large Moscow~\YEAR}
+\end{center}
+\end{titlepage}}
+
+\def\ppmakerus{\begin{titlepage}
+\hypersetup{urlcolor=blue}
+\begin{center} \begin{tabular}{p{.5\textwidth}p{.5\textwidth}}
+    \begin{tabular}{l}
+      Институт вычислительной математики \\[.15mm]
+      Российская академия наук           \\[.15mm]
+      119333, Москва, Губкина 8          \\[.15mm]
+     \url{www.inm.ras.ru}
+    \end{tabular} 
+      & \noindent \hfill 
+   \begin{tabular}{c}
+   $\left[\mbox{%
+   \begin{tabular}{ccc}
+     \multicolumn{3}{c}{\small \!\!\! \cyr\cyrp\cyru\cyrb\cyrl\cyri\cyrk\cyra\cyrc\cyri\cyri} \\
+     \CYRI & \CYRV & \CYRM \\
+     \CYRR & \CYRA & \CYRN
+   \end{tabular}%
+   }\right]$ \\
+     \url{pub.inm.ras.ru} 
+   \end{tabular}  
+\end{tabular} \end{center}
+%\vskip -6mm \noindent \hrule
+%
+\vskip 40mm
+\begin{center}
+\Large \it \ppauthor
+\end{center}
+\begin{center}
+\LARGE \sc \pptitle
+\end{center}
+\vskip 20mm
+\hbox to \textwidth{\large \cyr\CYRP\cyrr\cyre\cyrp\cyrr\cyri\cyrn\cyrt~\cyr\textnumero\ppnumber \hfil \ppdate }
+\vfill
+\begin{center}
+\includegraphics[width=40mm]{logo.pdf} \\[10pt]
+{\large \cyr\CYRM\cyro\cyrs\cyrk\cyrv\cyra~\YEAR}
+\end{center}
+\end{titlepage}}
+%
+% title, author, grants, etc
+%
+\def\@fnsymbol#1{\ensuremath{\ifcase#1
+      \or\star
+      \or{@}
+      \or \dagger
+      \or \ddagger
+      \or\mathchar "278
+      \or\mathchar "27B
+      \else\@ctrerr\fi}}
+
+\def\@crssymbol#1{\ensuremath{\ifcase#1
+      \or{\$}
+      \or{\pounds}
+      \or{\yen}
+      \else\@ctrerr\fi}}
+
+\usepackage{setspace}
+\def\title#1{\phantom{.}\vskip 5mm
+      \begin{center}\begin{doublespace}{ \LARGE\sc  #1}\end{doublespace}\end{center}}
+
+\def\author#1{\begin{center}\large{#1}\end{center}}
+
+\def\address#1{\begin{center}\footnotesize\textit{#1}\end{center}}
+
+\def\date#1{\vskip 3mm\begin{center}\large{#1}\end{center}\vskip 10mm}
+
+\def\fnmsep{\unskip$^,$}
+
+\def\affilnum#1{${}^{\@fnsymbol{#1}}$}
+\def\affil#1{${}^{\@fnsymbol{#1}}$}
+
+\def\thanks#1{${}^{\@crssymbol{#1}}$}
+\def\grant#1#2{{\def\thefootnote{\@crssymbol{#1}}\footnotetext{#2} }}
+
+\def\email#1{{\tt #1}}
+%
+%  abstract and keywords
+%
+\if@titlepage
+  \renewenvironment{abstract}{%
+      \titlepage
+      \null\vfil
+      \@beginparpenalty\@lowpenalty
+      \begin{center}%
+        \bfseries \abstractname
+        \@endparpenalty\@M
+      \end{center}
+      }%
+     {\par\vfil\null\endtitlepage}
+\else
+  \renewenvironment{abstract}{%
+         \small \quotation {\bfseries \aabstractname} }%
+      {\endquotation}
+\fi
+
+\ifnum\language=\l@russian
+ \def\keywordsname{\cyr\CYRK\cyrl\cyryu\cyrch\cyre\cyrv\cyrery\cyre~\cyr\cyrs\cyrl\cyro\cyrv\cyra}
+ \def\aabstractname{\cyr\CYRA\cyrn\cyrn\cyro\cyrt\cyra\cyrc\cyri\cyrya.}
+\else
+ \def\keywordsname{Keywords}
+ \def\aabstractname{Abstract.}
+\fi
+\def\keywords#1{\vskip 2mm\par\noindent{\small\emph{\keywordsname:} #1}}
+%
+%  sections
+%
+
+\def\@seccntformat#1{\csname the#1\endcsname.\:\:}
+\evensidemargin=\oddsidemargin
+
+\def\@sect#1#2#3#4#5#6[#7]#8{%
+  \ifnum #2>\c@secnumdepth
+    \let\@svsec\@empty
+  \else
+    \refstepcounter{#1}%
+    \protected@edef\@svsec{\@seccntformat{#1}\relax}%
+  \fi
+  \@tempskipa #5\relax
+  \ifdim \@tempskipa>\z@
+    \begingroup
+      #6{%
+        \@hangfrom{\hskip #3\relax\@svsec}%
+          \interlinepenalty \@M #8\@@par}%
+    \endgroup
+    \csname #1mark\endcsname{#7}%
+    \addcontentsline{toc}{#1}{%
+      \ifnum #2>\c@secnumdepth \else
+        \protect\numberline{\csname the#1\endcsname}%
+      \fi
+      #7}%
+  \else
+    \def\@svsechd{%
+      #6{\hskip #3\relax
+      \@svsec #8.}%
+      \csname #1mark\endcsname{#7}%
+      \addcontentsline{toc}{#1}{%
+        \ifnum #2>\c@secnumdepth \else
+          \protect\numberline{\csname the#1\endcsname}%
+        \fi
+        #7}}%
+  \fi
+  \@xsect{#5}}
+
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+                       {-18\p@ \@plus -4\p@ \@minus -4\p@}%
+                       {12\p@ \@plus 4\p@ \@minus 4\p@}%
+                       {\normalfont\large\bfseries\boldmath
+                        \rightskip=\z@ \@plus 8em\pretolerance=10000 }}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                       {-18\p@ \@plus -4\p@ \@minus -4\p@}%
+                       {8\p@ \@plus 4\p@ \@minus 4\p@}%
+                       {\normalfont\normalsize\bfseries\boldmath
+                        \rightskip=\z@ \@plus 8em\pretolerance=10000 }}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                       {-18\p@ \@plus -4\p@ \@minus -4\p@}%
+                       {-0.5em \@plus -0.22em \@minus -0.1em}%
+                       {\normalfont\normalsize\bfseries\boldmath}}
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+                       {-12\p@ \@plus -4\p@ \@minus -4\p@}%
+                       {-0.5em \@plus -0.22em \@minus -0.1em}%
+                       {\normalfont\normalsize\itshape}}
+
+\def\@begintheorem#1#2{\trivlist
+   \item[\hskip \labelsep{\bfseries #1\ #2}.]\slshape}
+\def\@opargbegintheorem#1#2#3{\trivlist
+      \item[\hskip \labelsep{{\bfseries #1\ #2}\ (#3).}]\slshape}
+
+%
+% caption delimiter
+%
+\usepackage{caption}
+%\DeclareCaptionStyle{plain}{labelfont=rm,labelsep=period,strut=off}
+%\DeclareCaptionStyle{ruled}{labelfont=bf,labelsep=period,strut=off}
+\captionsetup[figure]{labelsep=period}
+\captionsetup[table]{labelsep=period}
+\captionsetup[algorithm]{labelsep=colon}
+\def\myss{~$/\!\!/$~}
+%
+%  symbol corrections
+%
+\def\hat{\mathaccent"705E }
+\let\eps=\varepsilon \let\ups=\upsilon
+\let\le=\leqslant  \let\ge=\geqslant
+\let\leq=\leqslant \let\geq=\geqslant
+
+
+
+%
+%  theorems, algo & algolist
+%
+\usepackage{amsthm}
+\ifnum\language=\l@russian
+ \def\ALG@name{\cyr\CYRA\cyrl\cyrg\cyro\cyrr\cyri\cyrt\cyrm}
+ \def\algorithmicrequire{\textbf{\cyr\CYRD\cyra\cyrn\cyro:}}
+ \def\algorithmicensure{\textbf{\cyr\CYRV\cyrery\cyrch\cyri\cyrs\cyrl\cyri\cyrt\cyrsftsn:}}
+ \newtheorem{assume}{Предположение}%[section]
+ \newtheorem{lemma}{Лемма}%[section]
+ \newtheorem{statement}{Утверждение}%[section]
+ \newtheorem{corollary}{Следствие}%[section]
+ \newtheorem{theorem}{Теорема}%[section]
+ \newtheorem{definition}{Определение}%[section]
+ \newtheorem{algo}{Алгоритм}
+ %\def\proof{\par\noindent\textbf{Доказательство.} \ignorespaces}
+ %\def\endproof{$~~\Box$\relax\par}
+\else
+ \def\algorithmicrequire{\textbf{Input:}}
+ \def\algorithmicensure{\textbf{Output:}}
+ \theoremstyle{definition}
+ \newtheorem{assume}{Assumption}%[section]
+ \newtheorem{remark}{Remark}%[section]
+ \newtheorem{example}{Example}%[section]
+ \newtheorem{lemma}{Lemma}%[section]
+ \newtheorem{statement}{Statement}%[section]
+ \newtheorem{corollary}{Corollary}%[section]
+ \newtheorem{theorem}{Theorem}%[section]
+ \newtheorem{definition}{Definition}%[section]
+ \newtheorem{algo}{Algorithm}
+ %\def\proof{\par\noindent\textbf{Proof.} \ignorespaces}
+ %\def\endproof{$~~\Box$\relax\par}
+\fi
+
+
+\newcounter{algcnt}
+\ifnum\language=\l@russian
+  \newcommand*{\ralph}[1]{\@ralph{\@nameuse{c@#1}}}
+  \newcommand*{\@ralph}[1]%
+   {\ifcase #1\or \cyra\or \cyrb\or \cyrv\or \cyrg\or \cyrd\or \cyre\or \cyrzh\or \cyrz\or \cyri\or
+   \cyrk\or \cyrl\or \cyrm\or \cyrn\or \cyro\or \cyrp\or \cyrr\or \cyrs\or \cyrt\or \cyru\or
+   \cyrf\or \cyrh\or \cyrc\or \cyrch\or \cyrsh\or \cyrsch\or \cyrerev\or \cyryu\or \curya\else\@ctrerr \fi}
+   \newenvironment{alphlist}{\begin{list}{{\ralph{algcnt})}}{\usecounter{algcnt}}}{\end{list}}
+\else
+   \newenvironment{alphlist}{\begin{list}{{(\alph{algcnt})}}{\usecounter{algcnt}}}{\end{list}}
+\fi
+\newenvironment{algolist}{%
+      \begin{list}{%
+            {\small\arabic{algcnt}:}}{%
+            \leftmargin=0pt \rightmargin=0pt
+            \labelsep=5pt \labelwidth=2em \itemindent=0em
+            \listparindent=0pt
+            \usecounter{algcnt}%
+            }}{\end{list}}
+\endinput
