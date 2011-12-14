@@ -794,6 +794,19 @@ year = {2005},
 doi = {DOI: 10.1016/j.matcom.2004.09.002}
 }
 
+@ARTICLE{PeterSchwab-parabolic-2004,
+  author = {von Petersdorff,Tobias and Schwab,Christoph},
+  title = {Numerical solution of parabolic equations in high dimensions},
+  journal = {ESAIM: Mathematical Modelling and Numerical Analysis},
+  year = {2004},
+  volume = {38},
+  pages = {93-127},
+  number = {01},
+  doi = {10.1051/m2an:2004005},
+  url = {http://dx.doi.org/10.1051/m2an:2004005}
+}
+
+
 
 
 %%%2005
@@ -828,23 +841,12 @@ volume = {101},
 year = {2005}
 }
 
-@article{hkh-kron1-2005,
- author={Hackbusch, W.  and Khoromskij, B. N.},
- title={{Low-rank Kronecker-product} approximation to multi-dimensional nonlocal operators. {Part 1. Separable} approximation of multi-variate functions},
- journal={Computing},
- volume={76},
- number={3-4},
- pages={177-202},
- year={2006},
- doi={10.1007/s00607-005-0144-0}
-}
-
 %%%2006
 
 @article{khor-rstruct-2006,
  title={Structured {rank-$(r_1,\ldots,r_d)$} decomposition of function-related operators in {$\mathbb{R}^d$}},
  author={Khoromskij, B. N.},
- journal={Comp. Meth. Appl. Math},
+ journal={Comput. Meth. Appl. Math},
  year={2006},
  volume={6},
  number={2},
@@ -883,7 +885,7 @@ year="2006"
 @article{wang-high-dim-finance-2006,
   title={Why are high-dimensional finance problems often of low effective dimension?},
   author={Wang, X. and Sloan, I. H.},
-  journal={SIAM J. Sci. Comp.},
+  journal={SIAM J. Sci. Comput.},
   volume={27},
   number={1},
   pages={159--183},
@@ -914,7 +916,7 @@ doi="10.1063/1.2761871"
 @article{kolda-toolbox-2007,
   author = {Bader, B. W. and Kolda, T. G.},
   title = {Efficient {MATLAB} computations with sparse and factored tensors},
-  journal = {SIAM J. Sci. Comp.},
+  journal = {SIAM J. Sci. Comput.},
   year = {2007},
   volume = {30},
   number = {1},
@@ -950,7 +952,7 @@ title={Computation of the {Hartree-Fock} exchange by tensor-structured methods},
 year="2008",
 number="2",
 volume="10",
-journal="Comp. Methd. Appl. Math."
+journal="Comput. Methd. Appl. Math."
 }
 
 @techreport{vanloan-Ten-Net-Comput-2008,
@@ -1029,7 +1031,7 @@ year=2008,
 @article{khor-ml-2009,
 author={Khoromskij, B. N. and Khoromskaia, V.},
 title={Multigrid accelerated tensor approximation of function related multidimensional arrays},
-journal={SIAM J. Sci. Comp.},
+journal={SIAM J. Sci. Comput.},
 volume={31},
 number={4},
 pages={3002-3026},
@@ -1162,15 +1164,25 @@ doi={10.1109/iscas.2009.5118377}
         pages = {1149-1170}
 }
 
+@ARTICLE{BrisMaday-greedy_pdes-2009,
+  author = {Le Bris, C. and Leli\'{e}vre, T. and Maday, Y.},
+  title = {Results and Questions on a Nonlinear Approximation Approach for Solving High-dimensional Partial Differential Equations},
+  journal = {Constructive Approximation},
+  year = {2009},
+  volume = {30},
+  pages = {621-651},
+  url = {http://dx.doi.org/10.1007/s00365-009-9071-1}
+}
+
 %%%2010
 
 
 @techreport{khor-lectures-2010,
 	author = {Khoromskij, B. N.},
-	title = {Computations of quantum tensor networks},
+	title = {Introduction to tensor numerical methods in scientific computing},
 	institution = {University of  {Z\"urich}},
 	year = {2010},
-	type = {Preprint},
+	type = {Preprint, Lecture Notes},
         number={06-2011},
         url={http://www.math.uzh.ch/fileadmin/math/preprints/06_11.pdf}
 }
@@ -1242,8 +1254,9 @@ url={http://www.dfg-spp1324.de/download/preprints/preprint046.pdf}
 @techreport{TobKress-Param-2010pre,
 author = {Kressner, Daniel and Tobler, Christine},
 title = {{Low-rank tensor Krylov subspace methods for parametrized linear systems}},
-type = {Research Reports of Seminar for Applied Mathematics, ETHZ},
-year = {2010}
+type = {Research Report},
+year = {2010},
+institution={Seminar for applied mathematics, ETH Zurich}
 }
 
 
@@ -1300,7 +1313,7 @@ year="2010",
 url={http://opus.kobv.de/tuberlin/volltexte/2011/2948/}
 }
 
-@techreport{holtz-manifolds-fixed-rank-2010,
+@techreport{holtz-manifolds-fixed-rank-2010-pre,
   title={On manifolds of tensors of fixed {TT}--rank},
   author={Holtz, S. and Rohwedder, T. and Schneider, R.},
   type={Preprint},
@@ -1342,7 +1355,7 @@ doi={10.1016/j.chemolab.2011.09.001}
 @article{khor-chem-2011,
  title={Numerical solution of the {Hartree--Fock} equation in multilevel tensor-structured format},
  author={Khoromskij, B. N. and Khoromskaia, V. and Flad., H.-J.},
- journal={SIAM J. Sci. Comp.},
+ journal={SIAM J. Sci. Comput.},
  volume={33},
  number={1},
  pages={45-65},
@@ -1386,18 +1399,19 @@ doi={10.1007/s00365-011-9131-1}
 
 @article{vekh-qtt-hartree-2011,
 author={Khoromskaia, V. and Khoromskij, B. N. and Schneider, R.},
-title={QTT representation of the Hartree and exchange operators in electronic structure calculations},
-journal={Comp. Meth. Appl. Math},
+title={{QTT representation of the Hartree and exchange operators in electronic structure calculations}},
+journal={Comput. Meth. Appl. Math},
 volume={11},
 number={3},
-pages={327-341}
+pages={327-341},
+year={2011}
 }
 
 
 @article{gavkh-qtt_cayley-2011,
 author = {Gavrilyuk, I.P. and Khoromskij, B.N.},
 title = {{Quantized-TT-Cayley} transform for computing the dynamics and the spectrum of high-dimensional {Hamiltonians}},
-journal = {Comp. Methods in Appl. Math.},
+journal = {Comput. Methods in Appl. Math.},
 volume = {11},
 number = {3},
 year = {2011},
@@ -1419,13 +1433,28 @@ year = {2011}
 @article{KhSch-Galerkin-SPDE-A2010,
   title={{Tensor-structured Galerkin approximation of parametric and stochastic elliptic PDEs}},
   author={Khoromskij, B.N. and Schwab, C.},
-journal={SIAM J. Sci. Comp.},
+journal={SIAM J. Sci. Comput.},
  volume={33},
  number={1},
  pages={1-25},
  year={2011},
 }
-
+@article{grhack-introcmam-2011,
+ title={{An introduction to hierarchical ($\mathcal{H}$-) and TT-rank of
+tensors with examples}},
+ journal={Comput. Meth. Appl. Math.},
+ year={2011},
+ volume={3},
+ pages={291-304},
+ author={Grasedyck, Lars and Hackbusch, Wolfgang}
+}
+@article{holtz-manifolds-fixed-rank-2011,
+  title={On manifolds of tensors of fixed {TT}--rank},
+  author={Holtz, S. and Rohwedder, T. and Schneider, R.},
+  journal={Numer. Math.},
+  doi={10.1007/s00211-011-0419-7},
+  year={2011},
+}
 
 %%%%%%%%% UNSRT
 
