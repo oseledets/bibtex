@@ -1,3 +1,6 @@
+%
+% gmres
+%
 @article{Saad_Schultz-gmres-1986,
   title={{GMRES: A generalized minimal residual algorithm for solving nonsymmetric linear systems.}},
   author={Saad, Y. and Schultz, M.H.},
@@ -14,7 +17,9 @@
     institution = {},
     year = {2004}
 }
-
+%
+% multigrid
+%
 @ARTICLE{Cleary-Scalab-AMG-1998,
     author = {Andrew J. Cleary and Robert D. Falgout and Van Emden Henson and Jim E. Jones and Thomas A. Manteuffel and Stephen F. McCormick and Gerald N. Miranda and John W. Ruge},
     title = {{Robustness and scalability of algebraic multigrid}},
@@ -30,15 +35,14 @@
      journal = {SIAM Journal on Numerical Analysis},
      volume = {34},
      number = {6},
-     pages = {pp. 2254-2273},
+     pages = {2254-2273},
      url = {http://www.jstor.org/stable/2951949},
      year = {1997}
 }
 
 @article {Aks_Grah-High-Contrast-Prec-2008,
    author = {Aksoylu, Burak and Graham, Ivan and Klie, Hector and Scheichl, Robert},
-   affiliation = {Louisiana State University Department of Mathematics and Centre for Computation and Technology Baton Rouge LA 70803 USA},
-   title = {{Towards a rigorously justified algebraic preconditioner for high-contrast diffusion problems}},
+   title = {Towards a rigorously justified algebraic preconditioner for high-contrast diffusion problems},
    journal = {Computing and Visualization in Science},
    publisher = {Springer Berlin / Heidelberg},
    issn = {1432-9360},
@@ -46,13 +50,24 @@
    pages = {319-331},
    volume = {11},
    issue = {4},
-   url = {http://dx.doi.org/10.1007/s00791-008-0105-1},
-   note = {10.1007/s00791-008-0105-1},
+   doi = {10.1007/s00791-008-0105-1},
    year = {2008}
 }
 
+@article{notay-agmg-2010,
+title={An aggregation-based algebraic multigrid method},
+author={Notay, Yvan},
+journal={ETNA},
+volume={37},
+year={2010},
+pages={123-145}
+}
+
+%
+%  general
+%
 @article{saad-sparse-inverse-selfprec-1998,
-  title={{Approximate inverse preconditioners via sparse-sparse iterations}},
+  title={Approximate inverse preconditioners via sparse-sparse iterations},
   author={Chow, E. and Saad, Y.},
   journal={SIAM J. Sci. Comput.},
   volume={19},
@@ -63,6 +78,70 @@
   publisher={Citeseer}
 }
 
+@book{Hageman-Applied-iteratives-1981,
+author = {Hageman, A. L. and Young, D. M.},
+title = {Applied Iterative Methods},
+publisher = {Academic Press, New York},
+year = {1981}
+}
+
+@article{Simoncini-Theory-inexact-Krylov-2003,
+ author = {Simoncini, Valeria and Szyld, Daniel B.},
+ title = {{Theory of Inexact Krylov Subspace Methods and Applications to Scientific Computing}},
+ journal = {SIAM J. Sci. Comput.},
+ volume = {25},
+ issue = {2},
+ year = {2003},
+ issn = {1064-8275},
+ pages = {454--477},
+ doi = {10.1137/S1064827502406415},
+ publisher = {Society for Industrial and Applied Mathematics},
+}
+
+@article{Eshof-Inexact-Krylov-Subspace-2004,
+author = {van den Eshof, Jasper and Sleijpen, Gerard L. G.},
+title = {Inexact {Krylov} Subspace Methods for Linear Systems},
+publisher = {SIAM},
+year = {2004},
+journal = {SIAM Journal on Matrix Analysis and Applications},
+volume = {26},
+number = {1},
+pages = {125-153},
+doi = {10.1137/S0895479802403459}
+}
+
+@article{Chan-survey-2001,
+author = {Chan, R. H. and Ng, M. K. and Yip, A. M.},
+title = {A Survey of Preconditioners for Ill-Conditioned {Toeplitz} Systems, Structured Matrices in Mathematics, Computer Science, and Engineering {II}},
+journal = {Contemporary Mathematics},
+number = {281},
+year = {2001},
+pages = {175--191},
+editor = {Olshevsky, V.}
+}
+
+@article{NSV-2_lev_Toepl-2005,
+author = {Noutsos, D. and Capizzano, S. Serra and Vassalos, P.},
+title = {A preconditioning proposal for ill-conditioned {Hermitian} two-level {Toeplitz} systems},
+journal = {Numer. Linear Algebra Appl.},
+number = {12},
+year = {2005},
+pages = {231--239}
+}
+
+@article{knyazev-lobpcg-2001,
+ author= {Knyazev, Andrew V.},
+ title={Toward the optimal preconditioned eigensolver: Locally optimal block preconditioned conjugate gradient method},
+ journal={SIAM J. Sci. Comput.},
+ volume={23},
+ issue={2},
+ year={2001},
+ pages={517--541},
+ doi={10.1137/S1064827500366124}
+}
+%
+% CG
+%
 @phdthesis{Chandra-CG-1978,
  author = {Chandra, Rati},
  title = {Conjugate gradient methods for partial differential equations.},
@@ -70,13 +149,6 @@
  note = {AAI7819699},
  publisher = {Yale University},
  address = {New Haven, CT, USA},
-}
-
-@book{Hageman-Applied-iteratives-1981,
-author = {Hageman, A. L. and Young, D. M.},
-title = {Applied Iterative Methods},
-publisher = {Academic Press, New York},
-year = {1981}
 }
 
 @article{Sluis-CG-rate-1986,
@@ -114,10 +186,10 @@ volume = {29},
 pages = {1 - 16},
 year = {1980},
 issn = {0024-3795},
-author = {Owe Axelsson}
+author = {Axelsson, Owe}
 }
 
-@article {Axelsson-PCG-rate-1986,
+@article{Axelsson-PCG-rate-1986,
    author = {Axelsson, Owe and Lindskog, Gunhild},
    affiliation = {Department of Computer Sciences Lund University Lund Sweden},
    title = {On the rate of convergence of the preconditioned conjugate gradient method},
@@ -132,70 +204,18 @@ author = {Owe Axelsson}
    note = {10.1007/BF01389448},
    year = {1986}
 }
-
-@article{Simoncini-Theory-inexact-Krylov-2003,
- author = {Simoncini, Valeria and Szyld, Daniel B.},
- title = {{Theory of Inexact Krylov Subspace Methods and Applications to Scientific Computing}},
- journal = {SIAM J. Sci. Comput.},
- volume = {25},
- issue = {2},
- year = {2003},
- issn = {1064-8275},
- pages = {454--477},
- url = {http://portal.acm.org/citation.cfm?id=953066.953104},
- doi = {10.1137/S1064827502406415},
- publisher = {Society for Industrial and Applied Mathematics},
+%
+% newton
+%
+@article{shulz-newton-1933,
+ author={Schulz, G.},
+ title={Iterative {Berechung} der reziproken {Matrix}},
+ journal={ZAMM J. Appl. Math. and Mechanics},
+ volume={13},
+ number={1},
+ pages={57-59},
+ year={1933},
+ doi={10.1002/zamm.19330130111}
 }
 
-@article{Eshof-Inexact-Krylov-Subspace-2004,
-author = {van den Eshof, Jasper and Sleijpen, Gerard L. G.},
-title = {{Inexact Krylov Subspace Methods for Linear Systems}},
-publisher = {SIAM},
-year = {2004},
-journal = {SIAM Journal on Matrix Analysis and Applications},
-volume = {26},
-number = {1},
-pages = {125-153},
-url = {http://link.aip.org/link/?SML/26/125/1},
-doi = {10.1137/S0895479802403459}
-}
-
-@article{Chan-survey-2001,
-author = {Chan, R. H. and Ng, M. K. and Yip, A. M.},
-title = {{A Survey of Preconditioners for Ill-Conditioned Toeplitz Systems, Structured Matrices in Mathematics, Computer Science, and Engineering II}},
-journal = {Contemporary Mathematics},
-number = {281},
-year = {2001},
-pages = {175--191},
-editor = {V.~Olshevsky}
-}
-
-@article{NSV-2_lev_Toepl-2005,
-author = {Noutsos, D. and Capizzano, S. Serra and Vassalos, P.},
-title = {{A preconditioning proposal for ill-conditioned Hermitian two-level Toeplitz systems}},
-journal = {Numer. Linear Algebra Appl.},
-number = {12},
-year = {2005},
-pages = {231--239}
-}
-
-@article{knyazev-lobpcg-2001,
- author= {Knyazev, Andrew V.},
- title={Toward the optimal preconditioned eigensolver: Locally optimal block 
-preconditioned conjugate gradient method},
- journal={SIAM J. Sci. Comput.},
- volume={23},
- issue={2},
- year={2001},
- pages={517--541},
- doi={10.1137/S1064827500366124}
-}
-@article{notay-agmg-2010,
-title={An aggregation-based algebraic multigrid method},
-author={Notay, Yvan},
-journal={ETNA},
-volume={37},
-year={2010},
-pages={123-145}
-}
 
