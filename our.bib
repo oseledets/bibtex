@@ -301,7 +301,8 @@ number="08-10",
 institution="ICM HKBU",
 address="Kowloon Tong, Hong Kong",
 year="2008",
-url="www.math.hkbu.edu.hk/ICM/pdf/08-10.pdf"
+url="www.math.hkbu.edu.hk/ICM/pdf/08-10.pdf",
+newversion = {gostz-maxvol-2010},
 }
 
 @techreport{khst-eigen-2008pre,
@@ -312,7 +313,8 @@ institution={MPI MIS},
 address={Leipzig},
 number={78},
 year={2008},
-url={www.mis.mpg.de/preprints/2008/preprint2008\_78.pdf}
+url={www.mis.mpg.de/preprints/2008/preprint2008\_78.pdf},
+newversion={khst-eigen-2012},
 }
 
 @article{khst-eigen-2012,
@@ -480,7 +482,8 @@ number="2009-01",
 institution="INM RAS",
 address="Moscow",
 year="2009",
-url="http://pub.inm.ras.ru"
+url="http://pub.inm.ras.ru",
+newversion = {ot-tt-2011},
 }
 
 @techreport{osel-inside-2009pre,
@@ -491,7 +494,8 @@ number="2009-04",
 institution="INM RAS",
 address="Moscow",
 year="2009",
-url="http://pub.inm.ras.ru"
+url="http://pub.inm.ras.ru",
+newversion = {osel-2d2d-2010},
 }
 
 
@@ -525,17 +529,8 @@ number="09-04",
 institution="ICM HKBU",
 address="Kowloon Tong, Hong Kong",
 year="2009",
-url="www.math.hkbu.edu.hk/ICM/pdf/09-04.pdf"
-}
-@article{ost-chem-2009,
-author={Oseledets, I. V. and Savostyanov, D. V. and Tyrtyshnikov, E. E.},
-title={Cross approximation in tensor electron density computations},
-journal={Numer. Linear Algebra Appl.},
-volume={17},
-number={6},
-pages={935-952},
-year={2010},
-doi={10.1002/nla.682}
+url="www.math.hkbu.edu.hk/ICM/pdf/09-04.pdf",
+newversion={ost-chem-2009},
 }
 
 @article{osel-newten-2009eng,
@@ -551,6 +546,16 @@ doi={10.1134/S1064562409040115}
 
 
 %%%2010
+@article{ost-chem-2009,
+author={Oseledets, I. V. and Savostyanov, D. V. and Tyrtyshnikov, E. E.},
+title={Cross approximation in tensor electron density computations},
+journal={Numer. Linear Algebra Appl.},
+volume={17},
+number={6},
+pages={935-952},
+year={2010},
+doi={10.1002/nla.682}
+}
 
 
 @article{ktt-canon-2010,
@@ -644,7 +649,8 @@ institution="INM RAS",
 address="Moscow",
 year="2010",
 url="http://pub.inm.ras.ru",
-note="arXiv:1004.1986"
+note="arXiv:1004.1986",
+newversion={gos-kryl-2012},
 }
 
 
@@ -690,7 +696,7 @@ url={www.mis.mpg.de/preprints/2010/preprint2010\_69.pdf}
 	type = {Preprint},
 	number = 75,
 	url = {http://www.mis.mpg.de/publications/preprints/2010/prepr2010-75.html},
-	pages = {1-28}
+    newversion={khaz-lap-2010},
 }
 @article{khkaz-lap-2010,
 	author = {Kazeev, Vladimir A. and Khoromskij, Boris N.},
@@ -707,7 +713,8 @@ number="2010-03",
 institution="INM RAS",
 address="Moscow",
 year="2010",
-url="http://pub.inm.ras.ru"
+url="http://pub.inm.ras.ru",
+newversion={osel-wave-2011},
 }
 
 
@@ -735,9 +742,10 @@ url={www.mis.mpg.de/preprints/2010/preprint2010\_55.pdf}
 }
 
 
+
 @article{lebedeva-tensorcg-2010,
 author = {Lebedeva, O. S.},
-title = {Block tensor conjugate gradient-type method for Rayleigh quotient minimization in two-dimensional case},
+title = {Block tensor conjugate gradient-type method for {Rayleigh} quotient minimization in two-dimensional case},
 journal = {Comp. Math. and Math. Phys.},
 year = {2010},
 volume = {50},
@@ -757,6 +765,7 @@ number={3},
 pages={374-375},
 year={2011}
 }
+
 @article{khos-qtt-2010,
 author={Khoromskij, B. N. and Oseledets, I. V.},
 title={{QTT}-approximation of elliptic solution operators in high dimensions},
@@ -767,6 +776,7 @@ pages="303-322",
 year="2011",
 doi={10.1515/rjnamm.2011.017}
 }
+
 @article{osel-tt-2011,
 author={Oseledets, I. V.},
 title={Tensor-train decomposition},
@@ -775,8 +785,10 @@ volume={33},
 pages={2295-2317},
 number={5},
 year={2011},
+oldversion = {#osel-compact-2009pre},
 doi={10.1137/090752286}
 }
+
 @article{osel-wave-2011,
 author={Oseledets, I. V. and Tyrtyshnikov, E. E.},
 title={Algebraic wavelet transform via quantics tensor train decomposition},
@@ -788,6 +800,18 @@ year={2011},
 doi={10.1137/100811647}
 }
 
+@techreport{dks-ttfft-2012pre,
+ author = {Dolgov, S. V. and Khoromskij, B. N. and Savostyanov, D. V.},
+ title = {Superfast {Fourier} transform  using {QTT} approximation},
+ institution={MPI MIS},
+ year = {2011},
+ type = {Preprint},
+ number = {18},
+ address = {Leipzig},
+ url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_18.pdf},
+ notes={Published in J. Fourier Anal. Appl.},
+ newversion={ks-ttfft-2012},
+}
 
 @techreport{khkaz-conv-2011,
 author={Kazeev, V.  and Khoromskij, B. N. and Tyrtyshnikov, E. E.},
@@ -811,17 +835,6 @@ notes={submitted to SISC}
 	url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_19.pdf},
 }
 
-@techreport{DoKhSa-qtt_fft-2011,
-	author = {Dolgov, S. V. and Khoromskij, B. N. and Savostyanov, D. V.},
-	title = {Multidimensional {Fourier} transform in logarithmic complexity using {QTT approximation}},
-	institution={MPI MIS},
-	year = {2011},
-	type = {Preprint},
-	number = {18},
-	address = {Leipzig},
-	url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_18.pdf},
-      notes={Submitted to J. Fourier Anal. Appl.}
-}
 
 @techreport{dkot-ten-struct-solution-exist-2011pre,
 	author = {Dolgov, Sergey and Khoromskij, Boris N. and Oseledets, Ivan V. and Tyrtyshnikov, Eugene E.},
@@ -832,6 +845,7 @@ notes={submitted to SISC}
 	number = {12},
 	address = {Leipzig},
 	url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_12.pdf},
+    newversion = {kot-ten-struct-solution-exist-2011},
 }
 
 @techreport{sav-rank1-2011pre,
@@ -843,7 +857,8 @@ notes={submitted to SISC}
   number = {45},
   address = {Leipzig},
   url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_45.pdf},
-  notes={accepted in LAA}
+  notes={accepted in LAA},
+  newversion={sav-rank1-2012},
 }
 
 
@@ -982,17 +997,6 @@ doi={10.1002/nla.765}
   doi={10.1016/j.laa.2011.11.008}
 }
 
-@techreport{dks-ttfft-2012pre,
- author = {Dolgov, S. V. and Khoromskij, B. N. and Savostyanov, D. V.},
- title = {Superfast {Fourier} transform  using {QTT} approximation},
- institution={MPI MIS},
- year = {2011},
- type = {Preprint},
- number = {18},
- address = {Leipzig},
- url = {http://www.mis.mpg.de/preprints/2011/preprint2011\_18.pdf},
- notes={Published in J. Fourier Anal. Appl.}
-}
 @article{dks-ttfft-2012,
  author = {Dolgov, S. V. and Khoromskij, B. N. and Savostyanov, D. V.},
  title = {Superfast {Fourier} transform  using {QTT} approximation},
