@@ -18,6 +18,10 @@ s1="cur_preprints_bib/our_bib"
 sed "s/$s1/g" "cur_preprints.html" > 5.html
 mv 5.html cur_preprints.html
 cat pub_header.html cur_preprints.html published.html pub_footer.html > final.html
+#Fix it here`
+s1="<a href =final.html>All publications<\/a>"
+sed "s/$s1/All publications/g" final.html > 5.html
+mv 5.html final.html
 #cat pub_header.html pub_footer.html > final.html
 
 #Generate publications by year
@@ -31,8 +35,8 @@ cat pub_header.html "TMP$PUBSOLD.html" pub_footer.html > "$PUBSOLD.html"
 rm "TMP$PUBSOLD.html"
 s1="<a href =\""$PUBSOLD.html"\">old<\/a>"
 sed "s/$s1/old/g" $PUBSOLD.html > "TMP$PUBSOLD.html"
-mv "TMP$PUBSOLD.html" "$PUBSOLD.html"
-
+mv "TMP"$PUBSOLD".html" "$PUBSOLD.html"
+rm "TMP"$PUBSOLD"_bib.html"
 
 
 for ((year = $LASTYEAR ; year <= $CURRENTYEAR ; year++ )); 
@@ -60,8 +64,31 @@ do
 #    #NAME="pubs_${tp,,}"
     NAME=$(echo $tp | tr "[:upper:]" "[:lower:]")
 #    #bib2bib -s year -ob "pubs_$NAME.bib" -c "'area : \""$NAME"\"'" our.bib
-    python tmp.py $NAME our.bib "pubs_$NAME.bib"  
-    bibtex2html -s "plain" --no-header --no-footer -t "Papers on $NAME" -o "TMP$NAME"  "pubs_$NAME.bib" 
+    python tmp.py area $NAME our.bib "pubs_$NAME.bib"  
+    bibtex2html -r -s "plain" --no-header --no-footer -t "Papers on $NAME" -o "TMP$NAME"  "pubs_$NAME.bib" 
+    s1="TMP"$NAME"_bib/our_bib"
+    sed "s/$s1/g" "TMP$NAME.html" > 5.html
+    
+    cat pub_header.html 5.html pub_footer.html > "pubs_$NAME.html"
+    rm "TMP$NAME.html"
+    rm 5.html
+    rm "TMP"$NAME"_bib.html"
+    s1="<a href =\"pubs_$NAME.html\">"$tp"<\/a>"
+    sed "s/$s1/$tp/g" "pubs_$NAME".html > "TMP$NAME.html"
+    mv "TMP$NAME.html" "pubs_$NAME.html"
+done 
+
+
+#Generate publications by topic
+topics=('Tyrtyshnikov' 'Oseledets' 'Savostyanov' 'Dolgov' 'Goreinov' 'Kazeev' 'Zamarashkin' 'Lebedeva' 'Mikhalev')
+for tp in "${topics[@]}"
+do 
+#    #NAME="pubs_${tp,,}"
+#    NAME=$(echo $tp | tr "[:upper:]" "[:lower:]")
+    NAME=$tp
+#    #bib2bib -s year -ob "pubs_$NAME.bib" -c "'area : \""$NAME"\"'" our.bib
+    python tmp.py author $NAME our.bib "pubs_$NAME.bib"  
+    bibtex2html -r -s "plain" --no-header --no-footer -t "Papers by $NAME" -o "TMP$NAME"  "pubs_$NAME.bib" 
     s1="TMP"$NAME"_bib/our_bib"
     sed "s/$s1/g" "TMP$NAME.html" > 5.html
     
