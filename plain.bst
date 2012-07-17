@@ -188,7 +188,7 @@ FUNCTION {format.names}
   s num.names$ 'numnames :=
   numnames 'namesleft :=
     { namesleft #0 > }
-    { s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ 't :=
+    { "\href{" s nameptr "pubs_{ll}.html" format.name$ * "}{" * s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ * "}" * 't :=
       nameptr #1 >
 	{ namesleft #1 >
 	    { ", " * t * }
@@ -203,7 +203,7 @@ FUNCTION {format.names}
 	    }
 	  if$
 	}
-	't
+	't 
       if$
       nameptr #1 + 'nameptr :=
       namesleft #1 - 'namesleft :=

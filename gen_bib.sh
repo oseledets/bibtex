@@ -31,7 +31,9 @@ declare -i CURRENTYEAR=2012
 PUBSOLD=pubs_old
 bib2bib -s year -ob "$PUBSOLD.bib" -c "year < $LASTYEAR" our.bib
 bibtex2html -r -s "plain" --no-header --no-footer -t "Papers before $LASTYEAR" -o "TMP$PUBSOLD"  "$PUBSOLD.bib" 
-cat pub_header.html "TMP$PUBSOLD.html" pub_footer.html > "$PUBSOLD.html"
+s1="TMP"$PUBSOLD"_bib/our_bib"
+sed "s/$s1/g" "TMP$PUBSOLD.html" > 5.html
+cat pub_header.html 5.html pub_footer.html > "$PUBSOLD.html"
 rm "TMP$PUBSOLD.html"
 s1="<a href =\""$PUBSOLD.html"\">old<\/a>"
 sed "s/$s1/old/g" $PUBSOLD.html > "TMP$PUBSOLD.html"
