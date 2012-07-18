@@ -88,8 +88,8 @@ do
 done 
 
 
-#Generate publications by topic
-topics=('Tyrtyshnikov' 'Oseledets' 'Savostyanov' 'Dolgov' 'Goreinov' 'Kazeev' 'Zamarashkin' 'Lebedeva' 'Mikhalev')
+#Generate publications by author
+topics=('Tyrtyshnikov' 'Stavtsev' 'Oseledets' 'Savostyanov' 'Dolgov' 'Goreinov' 'Kazeev' 'Zamarashkin' 'Lebedeva' 'Mikhalev')
 for tp in "${topics[@]}"
 do 
 #    #NAME="pubs_${tp,,}"
