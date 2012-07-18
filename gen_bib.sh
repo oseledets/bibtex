@@ -20,6 +20,8 @@ s1="cur_preprints_bib/our_bib"
 sed "s/$s1/g" "cur_preprints.html" > 5.html
 mv 5.html cur_preprints.html
 cat pub_header.html cur_preprints.html published.html pub_footer.html > final.html
+rm cur_preprints.html cur_preprints.bib cur_preprints_bib.html
+rm published.html published.bib published_bib.html
 #Fix it here`
 s1="<a href =final.html>All publications<\/a>"
 sed "s/$s1/All publications/g" final.html > 5.html
