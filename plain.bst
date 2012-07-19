@@ -31,6 +31,9 @@ ENTRY
     type
     volume
     year
+    days 
+    event
+    notes
   }
   {}
   { label }
@@ -236,6 +239,14 @@ FUNCTION {format.title}
     { title "t" change.case$ }
   if$
 }
+
+FUNCTION {format.note}
+{ note empty$
+    { "" }
+    { " (" * note * ")" }
+  if$
+}
+
 
 FUNCTION {n.dashify}
 { 't :=
@@ -848,6 +859,20 @@ FUNCTION {unpublished}
   format.date output
   fin.entry
 }
+
+FUNCTION {talk}
+{ output.bibitem
+  format.authors "author" output.check
+  new.block
+  format.title "title" output.check
+  new.block
+  event "event" output.check
+  institution "institution" output.check
+  format.date output
+  format.note * 
+  fin.entry
+}
+
 
 FUNCTION {default.type} { misc }
 
