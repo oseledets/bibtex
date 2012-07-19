@@ -185,6 +185,36 @@ FUNCTION {emphasize}
 
 INTEGERS { nameptr namesleft numnames }
 
+FUNCTION {format.talk.names}
+{ 's :=
+  #1 'nameptr :=
+  s num.names$ 'numnames :=
+  numnames 'namesleft :=
+    { namesleft #0 > }
+    { s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ 't :=
+      nameptr #1 >
+	{ namesleft #1 >
+	    { ", " * t * }
+	    { numnames #2 >
+		{ "," * }
+		'skip$
+	      if$
+	      t "others" =
+		{ " et~al." * }
+		{ " and " * t * }
+	      if$
+	    }
+	  if$
+	}
+	't 
+      if$
+      nameptr #1 + 'nameptr :=
+      namesleft #1 - 'namesleft :=
+    }
+  while$
+}
+
+
 FUNCTION {format.names}
 { 's :=
   #1 'nameptr :=
@@ -218,6 +248,13 @@ FUNCTION {format.authors}
 { author empty$
     { "" }
     { author format.names }
+  if$
+}
+
+FUNCTION {format.talk.authors}
+{ author empty$
+    { "" }
+    { author format.talk.names }
   if$
 }
 
@@ -288,6 +325,10 @@ FUNCTION {format.date}
       if$
     }
   if$
+}
+
+FUNCTION {format.event}
+{ event emphasize
 }
 
 FUNCTION {format.btitle}
@@ -862,11 +903,11 @@ FUNCTION {unpublished}
 
 FUNCTION {talk}
 { output.bibitem
-  format.authors "author" output.check
+  format.talk.authors "author" output.check
   new.block
   format.title "title" output.check
   new.block
-  event "event" output.check
+  format.event "event"  output.check
   institution "institution" output.check
   format.date output
   format.note * 
