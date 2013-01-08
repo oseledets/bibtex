@@ -31,7 +31,7 @@ mv 5.html final.html
 #Generate publications by year
 
 declare -i LASTYEAR=2009
-declare -i CURRENTYEAR=2012
+declare -i CURRENTYEAR=2013
 PUBSOLD=pubs_old
 bib2bib -s year -ob "$PUBSOLD.bib" -c "year < $LASTYEAR" our.bib
 bibtex2html -r -s "plain_test" --no-header --no-footer -t "Papers before $LASTYEAR" -o "TMP$PUBSOLD"  "$PUBSOLD.bib" 
