@@ -141,16 +141,14 @@ FUNCTION {field.or.null}
 FUNCTION {emphasize}
 { duplicate$ empty$
     { pop$ "" }
-    { "{\sl " swap$ * "}" * }
+    { "{\em " swap$ * "}" * }
   if$
 }
-
-
 
 FUNCTION {scapify}
 { duplicate$ empty$
     { pop$ "" }
-    { "{\sc " swap$ * "}" * }
+    { "\textsc{ " swap$ * "}" * }
   if$
 }
 
@@ -198,7 +196,7 @@ FUNCTION {format.authors}
     }
     { author last.authors =
         { "\leavevmode\vrule height 2pt depth -1.6pt width 23pt" }
-        { author format.names emphasize }
+        { author format.names scapify }
       if$
       author 'last.authors :=
     }
