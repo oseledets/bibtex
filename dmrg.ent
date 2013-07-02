@@ -1,0 +1,1232 @@
+%0 
+%0 Journal Article
+%A \"Ostlund, S. & Rommer, S.
+%D 1995
+%T Thermodynamic limit of Density Matrix Renormalization
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 75
+%6
+%N 19
+%P 3537-3540
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F ostlund-dmrg-1995
+%K 
+%X 
+%Z 
+%U http://link.aps.org/doi/10.1103/PhysRevLett.75.3537
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Affleck, Ian; Kennedy, Tom; Lieb, Elliott H & Tasaki, Hal
+%D 1987
+%T Rigorous results on valence-bond ground states in antiferromagnets
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 59
+%6
+%N 7
+%P 799-802
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F aklt-1987
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bon\vc,a, J.; Trugman, S. & Batisti\'c,, I.
+%D 1999
+%T Holstein polaron
+%E 
+%B Phys. Rev. B
+%C 
+%I 
+%V 60
+%6
+%N 3
+%P 1633-1642
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Trugman2008
+%K 
+%X 
+%Z 
+%U http://link.aps.org/doi/10.1103/PhysRevB.60.1633
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Chiara, Gabriele; Rizzi, Matteo; Rossini, Davide & Montangero, Simone
+%D 2009
+%T Density Matrix Renormalization Group for Dummies
+%E 
+%B 
+%C 
+%I 
+%V 
+%6
+%N 
+%P 1-29
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F DeChiara2009
+%K numerical algorithms,one-dimensional systems,static and dynamic simulations
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Daul, S.; Ciofini, I.; Daul, C. & White, Steven R.
+%D 2000
+%T Full-CI quantum chemistry using the density matrix renormalization group
+%E 
+%B International Journal of Quantum Chemistry
+%C 
+%I 
+%V 79
+%6
+%N 6
+%P 331-342
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Daul2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Di\'osi, Lajos
+%D 2011
+%T A shourt course in quantum information theory: An approach from theoretical physics
+%E 
+%B Lecture notes in physics
+%C 
+%I Springer
+%V 827
+%6
+%N 
+%P 161
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 978-3-642-161162
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F quantuminf-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Ekert, Artur & Jozsa, Richard
+%D 1998
+%T Quantum algorithms: entanglement-enhanced information processing
+%E 
+%B Phil. Trans. R. Soc. Lond.
+%C 
+%I 
+%V 356
+%6
+%N 
+%P 1769-1782
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F EkertJozsa-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Fannes, M.; Nachtergaele, B. & Werner, R.F.
+%D 1992
+%T Finitely correlated states on quantum spin chains
+%E 
+%B Communications in Mathematical Physics
+%C 
+%I Springer
+%V 144
+%6
+%N 3
+%P 443-490
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 0010-3616
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F fannes-mps-1992
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Fannes, M.; Nachtergaele, B. & Werner, R. F.
+%D 1992
+%T Ground states of VBS models on Cayley trees
+%E 
+%B Journal of Statistical Physics
+%C 
+%I 
+%V 66
+%6
+%N 
+%P 939-973
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F fannes-TTN-1992
+%K 
+%X 
+%Z 
+%U http://dx.doi.org/10.1007/BF01055710
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Huegeman, Jutho; Cirac, J. Ignacio; Osborne, Tobias J.; Pi\vz,orn, Iztok; Verschelde, Henri & Verstraete, Frank
+%D 2011
+%T  Time-dependent variational principle for quantum lattices
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 107
+%6
+%N 7
+%P 070601
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F haegeman-tdvp-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Jeckelmann, Eric
+%D 2008
+%T Density-Matrix Renormalization Group Methods for Momentum- and Frequency-Resolved Dynamical Correlation Functions
+%E 
+%B Progress of Theoretical Physics Supplement
+%C 
+%I 
+%V 176
+%6
+%N 
+%P 143-164
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Jeckelmann2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Jeckelmann, Eric
+%D 2002
+%T Dynamical density--matrix renormalization--group method
+%E 
+%B Phys Rev B
+%C 
+%I 
+%V 66
+%6
+%N 
+%P 045114
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F jeckelmann-dmrgsolve-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Kaye, Phillip; Laflamme, Raymond & Mosca, Michelle
+%D 2007
+%T An introduction to quantum computing
+%E 
+%B 
+%C 
+%I Oxford Univ. Press
+%V 
+%6
+%N 
+%P 274
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 978-0-19-857000-4
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F quantumcomp-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kl\"u,mper, A.; Schadschneider, A. & Zittartz, J.
+%D 1993
+%T Matrix Product Ground States for One-Dimensional Spin-1 Quantum Antiferromagnets
+%E 
+%B Europhys. Lett.
+%C 
+%I 
+%V 24
+%6
+%N 4
+%P 293-297
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F klumper-mps-1993
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Mcculloch, I. P.
+%D 2001
+%T Density matrix renormalization group algorithm and the two-dimensional t-J model
+%E 
+%B Philosophical Magazine Part B
+%C 
+%I 
+%V 81
+%6
+%N 10
+%P 1603-1613
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Mcculloch2001
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Papadimitriou, Christos H.
+%D 1994
+%T Computational complexity
+%E 
+%B 
+%C 
+%I Addison Wesley
+%V 
+%6
+%N 
+%P 540
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F papadimitrou-1994
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Perez-Garcia, D.; Verstraete, F.; Wolf, M. M. & Cirac, J. I.
+%D 2007
+%T Matrix product state representations
+%E 
+%B Quantum Info. Comput.
+%C 
+%I 
+%V 7
+%6
+%N 5
+%P 401-430
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F PerezGarcia-mps-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Pi\vz,,orn, Iztok & Verstraete, Frank
+%D 2012
+%T Variational Numerical Renormalization Group: Bridging the Gap between NRG and Density Matrix Renormalization Group
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 108
+%6
+%N 067202
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F pizorn-eigb-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Schollw\"o,ck, Ulrich
+%D 2011
+%T The density-matrix renormalization group in the age of matrix product states
+%E 
+%B Annals of Physics
+%C 
+%I 
+%V 326
+%6
+%N 1
+%P 96-192
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F schollwock-review-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Schollw\"ock, Ulrich
+%D 2011
+%T The density-matrix renormalization group in the age of matrix product states
+%E 
+%B Ann. Phys
+%C 
+%I 
+%V 326
+%6
+%N 1
+%P 96-192
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F schollwock-dmrg-mps-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Verstraete, F.; Porras, D. & Cirac, J. I.
+%D 2004
+%T Density Matrix Renormalization Group and Periodic Boundary Conditions: A Quantum Information Perspective
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 93
+%6
+%N 22
+%P 227205
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F verstraete-dmrg-2004
+%K 
+%X 
+%Z 
+%U http://link.aps.org/doi/10.1103/PhysRevLett.93.227205
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Vidal, G.
+%D 2003
+%T Efficient classical simulation of slightly entangled quantum computations
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 91
+%6
+%N 14
+%P 147902
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F vidal-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A White, Steven R.
+%D 2002
+%T Numerical canonical transformation approach to quantum many-body problems
+%E 
+%B The Journal of Chemical Physics
+%C 
+%I 
+%V 117
+%6
+%N 16
+%P 7472
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 00219606
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F White-can-transform-2002
+%K 
+%X 
+%Z 
+%U http://jcp.aip.org/jcpsa6/v117/i16/p7472\_s1
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A White, Steven R.
+%D 1996
+%T Spin gaps in a frustrated Heisenberg model for CaV4O9
+%E 
+%B Physical Review Letters
+%C 
+%I 
+%V 77
+%6
+%N 17
+%P 3633-3636
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F White1996
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A White, S. R.
+%D 1993
+%T Density-matrix algorithms for quantum renormalization groups
+%E 
+%B Phys. Rev. B
+%C 
+%I 
+%V 48
+%6
+%N 14
+%P 10345-10356
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F white-dmrg-1993
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A White, S. R.
+%D 1992
+%T Density matrix formulation for quantum renormalization groups
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 69
+%6
+%N 19
+%P 2863-2866
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F white-dmrg-1992
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A White, Steven R. & Huse, David
+%D 1993
+%T Numerical renormalization-group study of low-lying eigenstates of the antiferromagnetic $S=1$ Heisenberg chain
+%E 
+%B Phys. Rev. B
+%C 
+%I 
+%V 48
+%6
+%N 6
+%P 3844-3852
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 0163-1829
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F white-dmrg-target-1993
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Wilson, K. G.
+%D 1975
+%T The renormalization group: Critical phenomena and the Kondo problem
+%E 
+%B Rev Mod Phys
+%C 
+%I 
+%V 47
+%6
+%N 4
+%P 773-840
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F wilson-nrg-1975
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+

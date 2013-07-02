@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for nam in our tensor dmrg misc; do
+ bib=${nam}.bib
+ ent=${nam}.ent
+ 
+ if [ -f ${bib} ]; then
+  jabref -n true -o ${ent},endnote ${bib}
+ else
+  echo "file ${bib} not found"
+ fi
+
+done

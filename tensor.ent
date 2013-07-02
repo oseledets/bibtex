@@ -1,0 +1,8360 @@
+%0 
+%0 Conference Proceedings
+%A Acar, E.; Bingol, C. A.; Bingol, H.; Bro, R. & Yener, B.
+%D 2007
+%T Multiway analysis of epilepsy tensors
+%E 
+%B ISMB 2007 Conference Proceedings
+%C 
+%I 
+%V 23
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 inproceedings
+%4 
+%# 
+%$ 
+%F acar-epilepsy-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Acar, E.; Camtepe, S.A.; Krishnamoorthy, M.S. & Yener, B.
+%D 2005
+%T Modeling and multiway analysis of chatroom tensors
+%E 
+%B ISI
+%C 
+%I 
+%V 3495
+%6
+%N 
+%P 256-268
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F acar-chatroom-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Acar, E. & Yener, B.
+%D 2009
+%T Unsupervised multiway data analysis: A literature survey
+%E 
+%B IEEE Transactions on Knowledge and Data Engineering
+%C 
+%I IEEE Computer Society
+%V 
+%6
+%N 
+%P 6-20
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F acar-unsupermway-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Andersen, C. M. & Bro, R.
+%D 2003
+%T Practical aspects of PARAFAC modeling of fluorescence excitation-emission data
+%E 
+%B J. Chemometrics
+%C 
+%I 
+%V 17
+%6
+%N 
+%P 200-215
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F andersen-pracfac-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Andersson, C.A. & Bro, R.
+%D 2000
+%T The N-way Toolbox for MATLAB
+%E 
+%B Chemometrics and Intelligent Laboratory Systems
+%C 
+%I Elsevier
+%V 52
+%6
+%N 1
+%P 1-4
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F andersson-nwaytoolbox-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Andersson, C.A. & Henrion, R.
+%D 1999
+%T A general algorithm for obtaining simple structure of core arrays in N-way PCA with application to fluorometric data
+%E 
+%B Computational Statistics and Data Analysis
+%C 
+%I 
+%V 31
+%6
+%N 3
+%P 255-278
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F andersson-nway-1999
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Appellof, C. J. & Davidson, E. R.
+%D 1981
+%T Strategies for analyzing data from video fluorometric monitoring of liquid chromatographic effluents
+%E 
+%B Analytical Chemistry
+%C 
+%I American Chemical Society
+%V 53
+%6
+%N 13
+%P 2053-2056
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F appellof-chrom-1981
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Badeau, R. & Boyer, R.
+%D 2008
+%T Fast multilinear singular value decomposition for structured tensors
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 30
+%6
+%N 
+%P 1008
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F badeau-simax-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Bader, B. W. & Kolda, T. G.
+%D 2007
+%T Tensor decompositions and applications
+%E 
+%B 
+%C Albuquerque, NM and Livermore, CA
+%I Sandia National Lab.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Technical Report
+%? 
+%! 
+%Z 
+%@ SAND2007-6702
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F kolda-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bader, B. W. & Kolda, T. G.
+%D 2007
+%T Efficient MATLAB computations with sparse and factored tensors
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 30
+%6
+%N 1
+%P 205-231
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F kolda-toolbox-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bader, B. W. & Kolda, T. G.
+%D 2006
+%T Algorithm 862: MATLAB tensor classes for fast algorithm prototyping
+%E 
+%B ACM T. Math. Soft.
+%C 
+%I 
+%V 32
+%6
+%N 4
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tensortoolbox-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Ballani, J. & Grasedyck, L.
+%D 2013
+%T A projection method to solve linear systems in tensor format
+%E 
+%B Numerical Linear Algebra with Applications
+%C 
+%I 
+%V 20
+%6
+%N 1
+%P 27-43
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F balgras-Htuck_gmres-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Ballani, J. & Grasedyck, L.
+%D 2010
+%T A projection method to solve linear systems in tensor format
+%E 
+%B 
+%C Marburg
+%I Philipps-Univ.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 DFG-SPP1324 Preprint
+%? 
+%! 
+%Z 
+%@ 46
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F balgras-Htuck_gmres-2010pre
+%K 
+%X 
+%Z 
+%U http://www.dfg-spp1324.de/download/preprints/preprint046.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Ballani, Jonas; Grasedyck, Lars & Kluge, Melanie
+%D 2013
+%T Black box approximation of tensors in hierarchical Tucker format
+%E 
+%B Linear Alg. Appl.
+%C 
+%I 
+%V 428
+%6
+%N 
+%P 639-657
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lars-htcross-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Ballani, Jonas; Grasedyck, Lars & Kluge, Melanie
+%D 2010
+%T Black box approximation of tensors in Hierarchical Tucker format
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 57
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F ballani-cross-2010
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2010/preprint2010{\_}57.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Baye, D. & Heenen, P.-H.
+%D 1986
+%T Generalised meshes for quantum mechanical problems
+%E 
+%B J. Phys. A: Math. Gen.
+%C 
+%I 
+%V 19
+%6
+%N 11
+%P 2041-2059
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F baye-dvr-1986
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bebendorf, M.
+%D 2011
+%T Adaptive cross approximation of multivariate functions
+%E 
+%B Constructive approximation
+%C 
+%I 
+%V 34
+%6
+%N 2
+%P 149-179
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bebe-aca-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bebendorf, M.
+%D 2000
+%T Approximation of boundary element matrices
+%E 
+%B Numer. Mathem.
+%C 
+%I Springer
+%V 86
+%6
+%N 4
+%P 565-589
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 0029-599X
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bebe-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Bebendorf, M. & Kuske, C.
+%D 2013
+%T Separation of variables for function generated high--order tensors
+%E 
+%B 
+%C 
+%I Institut {f\"ur} Numerische Simulation
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 1303
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F bebe-maca-2013pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Beckmann, C. F. & Smith, S. M.
+%D 2005
+%T Tensorial extensions of independent component analysis for multisubject FMRI analysis
+%E 
+%B Neuroimage
+%C 
+%I 
+%V 25
+%6
+%N 1
+%P 294-311
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F beckmann-fmri-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Bellman, R. E.
+%D 1957
+%T Dynamic programming
+%E 
+%B 
+%C 
+%I Princeton University Press
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F bellman-dyn-program-1957
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bertoglio, C. & Khoromskij, B. N.
+%D 2012
+%T Low-rank quadrature-based tensor approximation of the Galerkin projected Newton/Yukawa kernels
+%E 
+%B Computer Phys. Comm.
+%C 
+%I 
+%V 183
+%6
+%N 4
+%P 904-912
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F berkh-quad-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Beylkin, G.; Fann, G.; Gan, Z.; Harrison, R. & Yanai, T.
+%D 2004
+%T Multiresolution quantum chemistry: basic theory and initial applications
+%E 
+%B  J. Chem. Phys
+%C 
+%I 
+%V 121
+%6
+%N 23
+%P 11587-11598
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F beylkin-quantum-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Beylkin, G. & Mohlenkamp, M. J.
+%D 2005
+%T Algorithms for numerical analysis in high dimensions
+%E 
+%B SIAM J. Sci. Comput. 
+%C 
+%I 
+%V 26
+%6
+%N 6
+%P 2133-2159
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F beylkin-high-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Beylkin, G. & Mohlenkamp, M. J.
+%D 2002
+%T Numerical operator calculus in higher dimensions
+%E 
+%B Proc. Nat. Acad. Sci. USA 
+%C 
+%I 
+%V 99
+%6
+%N 16
+%P 10246-10251
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F beylkin-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bieri, M. & Schwab, Ch.
+%D 2009
+%T Sparse high order FEM for elliptic sPDEs
+%E 
+%B Comput. Methods Appl. Mech. Engrg.
+%C 
+%I 
+%V 198
+%6
+%N 
+%P 1149-1170
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Schwab-Bieri-sFEM-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Binev, P.; Cohen, A.; Dahmen, W.; DeVore, R.; Petrova, G. & Wojtaszczyk, P.
+%D 2011
+%T Convergence rates for greedy algorithms in reduced basis methods
+%E 
+%B SIAM J. Math. Anal.
+%C 
+%I SIAM
+%V 43
+%6
+%N 3
+%P 1457-1472
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Binev-conv_rate_greedy-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bini, D.
+%D 1980
+%T Relations between exact and approximate bilinear algorithms. Applications
+%E 
+%B Calcolo
+%C 
+%I Springer
+%V 17
+%6
+%N 1
+%P 87-97
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bini-bilinear-1980
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Blaser, M.
+%D 2003
+%T On the complexity of the multiplication of matrices of small formats
+%E 
+%B Journal of Complexity
+%C 
+%I 
+%V 19
+%6
+%N 1
+%P 43-60
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F blaser-matmul-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bouaricha, A.
+%D 1996
+%T Tensor-Krylov methods for large nonlinear equations
+%E 
+%B Comp. Optimization Appl.
+%C 
+%I 
+%V 5
+%6
+%N 3
+%P 207-232
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F ali-krylov-1996
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book Section
+%A Braess, D. & Hackbusch, W.
+%D 2009
+%T On the efficient computation of high-dimensional integrals and the approximation by exponential sums
+%E DeVore, R. A.
+%B Multiscale, nonlinear and adaptive approximation
+%C 
+%I Springer
+%V 
+%6
+%N 
+%P 39-74
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 incollection
+%4 
+%# 
+%$ 
+%F hack-expsum-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Braess, D. & Hackbusch, W.
+%D 2009
+%T On the efficient computation of high-dimensional integrals and the approximation by exponential sums
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 3
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F hack-expsum-2009pre
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2009/preprint2009_3.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bro, R.
+%D 2006
+%T Review on multiway analysis in chemistry --- 2000-2005
+%E 
+%B Critical reviews in analytical chemistry
+%C 
+%I CRC Press, Inc, 2000 Corporate Blvd, NW, Boca Raton, FL, 33431, USA,
+%V 36
+%6
+%N 3
+%P 279-293
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bro-review-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Thesis
+%A Bro, R.
+%D 1998
+%T Multi-way analysis in the food industry: models, algorithms, and applications
+%E 
+%B 
+%C 
+%I K{\o}benhavns UniversitetK{\o}benhavns Universitet, Det Biovidenskabelige Fakultet for F{\o}devarer, VeteFaculty of Life Sciences, Institut for F{\o}devarevidenskabDepartment of Food Science, Kvalitet og TeknologiQuality \& Technology
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 phdthesis
+%4 
+%# 
+%$ 
+%F bro-food-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bro, Richard
+%D 1997
+%T PARAFAC: Tutorial and applications
+%E 
+%B Chemometrics and Intelligent Lab. Syst.
+%C 
+%I 
+%V 38
+%6
+%N 2
+%P 149-171
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bro-parafac-1997
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bro, R.; Andersson, C.A. & Kiers, H.A.L.
+%D 1999
+%T PARAFAC2-Part II. Modeling chromatographic data with retention time shifts
+%E 
+%B Journal of Chemometrics
+%C 
+%I 
+%V 13
+%6
+%N 3-4
+%P 295-309
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F bro-parafac2-1999
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Buhmann, M.D.
+%D 2000
+%T Radial basis functions
+%E 
+%B Acta Numerica
+%C 
+%I 
+%V 9
+%6
+%N 1
+%P 1-38
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F buhmann-radial-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Buhmann, M.D.
+%D 1990
+%T Multivariate cardinal interpolation with radial-basis functions
+%E 
+%B Constr. Approx.
+%C 
+%I 
+%V 6
+%6
+%N 3
+%P 225-255
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F buhmann-radial-1990
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bungartz, H.-J.; Griebel, M.; R\"o,schke, D. & Zenger, C.
+%D 1994
+%T Pointwise convergence of the combination technique for Laplace's equation
+%E 
+%B East-West J. Numer. Math
+%C 
+%I 
+%V 2
+%6
+%N 
+%P 21-45
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Bungartz-Converg-of-CT-Lapl-94
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Bungatrz, Hans-Joachim & Griebel, Michael
+%D 2004
+%T Sparse grids
+%E 
+%B Acta Numerica
+%C 
+%I 
+%V 13
+%6
+%N 1
+%P 147-269
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F griebel-sparsegrids-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Caiafa, C.F. & Cichocki, A.
+%D 2010
+%T Generalizing the column--row matrix decomposition to multi-way arrays
+%E 
+%B Linear Algebra Appl.
+%C 
+%I 
+%V 433
+%6
+%N 3
+%P 557-573
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F caiafa-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Canc\'e,s, Eric; Ehrlacher, Virginie & Leli\'e,vre, Tony
+%D 2011
+%T Convergence of a greedy algorithm for high-dimensional convex nonlinear problems
+%E 
+%B Mathematical Models and Methods in Applied Sciences
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Cances-greedy-2011
+%K 
+%X 
+%Z 
+%U http://arxiv.org/abs/1004.0095
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Caroll, J. D. & Chang, J. J
+%D 1970
+%T Analysis of individual differences in multidimensional scaling via n-way generalization of Eckart--Young decomposition
+%E 
+%B Psychometrika
+%C 
+%I 
+%V 35
+%6
+%N 
+%P 283-319
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F cc-parafac-1970
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Cattell, R.B.
+%D 1952
+%T The three basic factor-analytic research designs and their interrelations and derivatives
+%E 
+%B Psychological Bulletin
+%C 
+%I 
+%V 49
+%6
+%N 5
+%P 499-520
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F cattell-three-1952
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Cattell, R.B.
+%D 1944
+%T ``Parallell proportional profiles'' and other principles for determining the choice fo factors by rotation
+%E 
+%B Psychometrika
+%C 
+%I 
+%V 9
+%6
+%N 4
+%P 267-283
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F cattell-mfac-1944
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Chen, B.; Petropulu, A.P. & de Lathauwer, L.
+%D 2002
+%T Blind identification of convolutive MIMO systems with 3 sources and 2 sensors
+%E 
+%B EURASIP Journal on Applied Signal Processing
+%C 
+%I 
+%V 5
+%6
+%N 
+%P 487-496
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F chen-blind-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Chinnamsetty, S. R.; Espig, M.; Hackbusch, W.; Khoromskij, B. N. & Flad, H. J.
+%D 2007
+%T Tensor product approximation with optimal rank in quantum chemistry
+%E 
+%B J. Chem. Phys.
+%C 
+%I 
+%V 127
+%6
+%N 
+%P 84-110
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F mpi-chem-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Conference Proceedings
+%A Comon, P.
+%D 2000
+%T Tensor decomposition: state of the art and applications
+%E 
+%B IMA Conf. Math. in Sig. Proc., Warwick, UK
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 inproceedings
+%4 
+%# 
+%$ 
+%F comon-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Coppi, R. & Bolasco, S.
+%D 1989
+%T Multiway data analysis
+%E 
+%B 
+%C Amsterdam, Netherlands
+%I North-Holland Publishing Co.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F coppi-multiway-1989
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Dedieu, J. P. & Shub, M.
+%D 1999
+%T Newton's method for overdetermined systems of equations
+%E 
+%B Math. Comput.
+%C 
+%I 
+%V 69
+%6
+%N 281
+%P 1099-1115
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F shub-newton-1999
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A De Lathauwer, L. & Vandewalle, J.
+%D 2004
+%T Dimensionality reduction in higher-order signal processing and rank-($R_1, R_2,..., R_N$) reduction in multilinear algebra
+%E 
+%B Linear Algebra Appl.
+%C 
+%I 
+%V 391
+%6
+%N 
+%P 31-55
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-red-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A De Launey, Warwick & Seberry, Jennifer
+%D 1994
+%T The strong Kronecker product
+%E 
+%B J. of Combin. Theory, Ser. A
+%C 
+%I 
+%V 66
+%6
+%N 2
+%P 192-213
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F launey-skp-1994
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Drineas, P[etros]; Kannan, R[avi] & Mahoney, M[ichael] W.
+%D 2006
+%T Fast Monte Carlo algorithms for matrices III: Computing a compressed approximate matrix decomposition
+%E 
+%B SIAM J Comput
+%C 
+%I 
+%V 36
+%6
+%N 1
+%P 184-206
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F mahoney-cur-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Eld\'en, L. & Savas, B.
+%D 2009
+%T A Newton--Grassmann method for computing the best multilinear rank-$(r_1,r_2,r_3)$ approximation of a tensor
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 31
+%6
+%N 2
+%P 248-271
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F eldensavas-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Eld\'en, L. & Savas, B.
+%D 2007
+%T A Newton-Grassmann method for computing the best multilinear rank-$(r_1,r_2,r_3)$ approximation of a tensor
+%E 
+%B 
+%C Link\"oping
+%I Dep. Math. Link\"opings Univ.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ LITH-MAT-R-2007-6-SE
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F eldensavas-2007preprint
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Espig, M.; Grasedyck, L. & Hackbusch, W.
+%D 2009
+%T Black box low tensor rank approximation using fibre-crosses
+%E 
+%B Constr. Appr.
+%C 
+%I 
+%V 30
+%6
+%N 3
+%P 557-597
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F esgras-bb-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Espig, M.; Grasedyck, L. & Hackbusch, W.
+%D 2008
+%T Black box low tensor rank approximation using fibre-crosses
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 60
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F esgras-bb-fibre-cross-2008
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2008/preprint2008\_60.pdf
+
+%+
+%^
+
+%0 
+%0 Report
+%A Espig, M. & Hackbusch, W.
+%D 2010
+%T A regularized Newton method for the efficient approximation of tensors represented in the canonical format
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 78
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F espig-regul-newton-canon-2011
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2010/preprint2009_78.pdf
+
+%+
+%^
+
+%0 
+%0 Report
+%A Espig, M.; Hackbusch, W.; Handschuh, S. & Schneider, R.
+%D 2011
+%T Optimization Problems in Contracted Tensor Networks
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 66
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F espig-tensor_networks-2011pre
+%K 
+%X 
+%Z 
+%U http://www.mis.mpg.de/preprints/2011/preprint2011\_66.pdf
+
+%+
+%^
+
+%0 
+%0 Report
+%A Espig, M.; Hackbusch, W. & Khachatryan, A.
+%D 
+%T On the convergence of alternating least squares optimisation in tensor format representations
+%E 
+%B 
+%C 
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 in preparation
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F espig-als-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Falc\'o, A. & Nouy, A.
+%D 2012
+%T Proper orthogonal decomposition for nonlinear convex problems in tensor Banach spaces
+%E 
+%B Numer. Math.
+%C 
+%I 
+%V 121
+%6
+%N 
+%P 503-530
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F falconouy-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Falco, A. & Hackbusch, W.
+%D 2010
+%T On minimal subspaces in tensor representation
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 70
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F falco-minimalpre-2010
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2010/preprint2010_70.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Garcke, J.; Griebel, M. & Thess, M.
+%D 2001
+%T Data mining with sparse grids
+%E 
+%B Computing
+%C 
+%I 
+%V 67
+%6
+%N 3
+%P 225-253
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F GGT-Sparse-Grids-DM-2001
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Gavrilyuk, I.P. & Khoromskij, B.N.
+%D 2011
+%T Quantized-TT-Cayley transform for computing the dynamics and the spectrum of high-dimensional Hamiltonians
+%E 
+%B Comput. Methods in Appl. Math.
+%C 
+%I 
+%V 11
+%6
+%N 3
+%P 273-290
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F gavkh-qtt_cayley-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Gavrilyuk, I. P.; Hackbusch, W. & Khoromskij, B. N.
+%D 2005
+%T Tensor-product approximation to the inverse and related operators in high-dimensional elliptic problems
+%E 
+%B Computing
+%C 
+%I 
+%V 
+%6
+%N 74
+%P 131-157
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F GHK-ten_inverse_ellipt-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Gourv\'e,nec, S.; Tomasi, G.; Durville, C.; Di Crescenzo, E.; Saby, CA; Massart, DL; Bro, R. & Oppenheim, G.
+%D 2005
+%T CuBatch, a MATLAB} interface for n-mode data analysis
+%E 
+%B Chemometrics and Intelligent Laboratory Systems
+%C 
+%I Elsevier
+%V 77
+%6
+%N 
+%P 122-130
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F gourvenec-cubatch-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Grasedyck, L.
+%D 2010
+%T Hierarchical singular value decomposition of tensors
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 31
+%6
+%N 4
+%P 2029-2054
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F gras-hsvd-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Grasedyck, L.
+%D 2010
+%T Polynomial approximation in hierarchical Tucker format by vector-tensorization
+%E 
+%B 
+%C Marburg
+%I Philipps-Univ.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 DFG-SPP1324 Preprint
+%? 
+%! 
+%Z 
+%@ 43
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F gras-tenz-2010
+%K 
+%X 
+%Z 
+%U http://www.dfg-spp1324.de/download/preprints/preprint043.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Grasedyck, L.
+%D 2004
+%T Existence and computation of low Kronecker-rank approximations for large systems in tensor product structure
+%E 
+%B Computing
+%C 
+%I 
+%V 72
+%6
+%N 
+%P 247-265
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F grasedyck-kron-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Grasedyck, L. & Hackbusch, W.
+%D 2011
+%T An introduction to hierarchical ($H$-) and TT-rank of tensors with examples
+%E 
+%B Comput. Meth. Appl. Math.
+%C 
+%I 
+%V 3
+%6
+%N 
+%P 291-304
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F grhack-introcmam-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Grasedyck, Lars; Kressner, Daniel & Tobler, Christine
+%D 2013
+%T A literature survey of low-rank tensor approximation techniques
+%E 
+%B 
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 {arXiv} preprint
+%? 
+%! 
+%Z 
+%@ 1302.7121
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F larskres-survey-2013
+%K 
+%X 
+%Z 
+%U http://arxiv.org/abs/1302.7121
+
+%+
+%^
+
+%0 
+%0 Book
+%A Griebel, M.
+%D 2005
+%T Sparse grids and related approximation schemes for higher dimensional problems
+%E 
+%B 
+%C 
+%I SFB 611
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F griebel-sparsegrids-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Griebel, Michael; Kuo, Frances Y. & Sloan, Ian H.
+%D 2010
+%T The smoothing effect of the ANOVA decomposition
+%E 
+%B Journal of Complexity
+%C 
+%I 
+%V 26
+%6
+%N 5
+%P 523 - 551
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F griebel-anova_smooth-2010
+%K 
+%X 
+%Z 
+%U http://www.sciencedirect.com/science/article/pii/S0885064X10000270
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Griebel, M. & Oeltz, D.
+%D 2007
+%T A sparse grid space-time discretization scheme for parabolic problems
+%E 
+%B Computing
+%C 
+%I 
+%V 81
+%6
+%N 
+%P 1-34
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Griebel-sparse_grid_space_time-2007
+%K 
+%X 
+%Z 
+%U http://dx.doi.org/10.1007/s00607-007-0241-3
+
+%+
+%^
+
+%0 
+%0 Report
+%A H\"ubener, R.; Nebendahl, V. & D\"ur, W.
+%D 2009
+%T Concatenated tensor network states
+%E 
+%B 
+%C {}
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ arXiv:0904.1925v1 [quant-ph]
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F hubener-Concat-ten-net-states-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Hackbusch, W.
+%D 2012
+%T Tensor spaces and numerical tensor calculus
+%E 
+%B 
+%C 
+%I Springer--Verlag, Berlin
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 978-3642280269
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F hackbusch-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, Wolfgang
+%D 2011
+%T Tensorisation of vectors and their efficient convolution
+%E 
+%B Numer. Math.
+%C 
+%I 
+%V 119
+%6
+%N 3
+%P 465-488
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hackbusch-conv-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, W.
+%D 2011
+%T Tensorisation of vectors and their efficient convolution
+%E 
+%B Numerische Mathematik
+%C 
+%I 
+%V 119
+%6
+%N 3
+%P 465-488
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hack-tenz-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Hackbusch, W.
+%D 2010
+%T Tensorisation of vectors and their efficient convolution
+%E 
+%B 
+%C Marburg
+%I Philipps-Univ.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 DFG-SPP1324 Preprint
+%? 
+%! 
+%Z 
+%@ 65
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F hack-tenz-2010pre
+%K 
+%X 
+%Z 
+%U http://www.dfg-spp1324.de/download/preprints/preprint065.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, W. & Braess, D.
+%D 2005
+%T Approximation of $1x$ by exponential sums in $[1,]$
+%E 
+%B IMA J. Numer. Anal.
+%C 
+%I 
+%V 25
+%6
+%N 4
+%P 685-697
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hackbra-expsum-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, W. & K\"uhn, S.
+%D 2009
+%T A new scheme for the tensor representation
+%E 
+%B J. Fourier Anal. Appl.
+%C 
+%I Springer
+%V 15
+%6
+%N 5
+%P 706-722
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hk-ht-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, W. & Khoromskij, B. N.
+%D 2006
+%T Low-rank Kronecker-product approximation to multi-dimensional nonlocal operators. I. Separable approximation of multi-variate functions
+%E 
+%B Computing
+%C 
+%I 
+%V 76
+%6
+%N 3-4
+%P 177-202
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-low-rank-kron-P1-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hackbusch, W. & Khoromskij, B. N.
+%D 2006
+%T Low-rank Kronecker-product approximation to multi-dimensional nonlocal operators. II. HKT representation of certain operators
+%E 
+%B Computing
+%C 
+%I 
+%V 76
+%6
+%N 3-4
+%P 203-225
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-low-rank-kron-P2-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Harshman, R. A.
+%D 1970
+%T Foundations of the PARAFAC procedure: models and conditions for an explanatory multimodal factor analysis
+%E 
+%B UCLA Working Papers in Phonetics
+%C 
+%I 
+%V 16
+%6
+%N 
+%P 1-84
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F harshman-parafac-1970
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hastad, J.
+%D 1990
+%T Tensor rank is NP--complete
+%E 
+%B J. of Algorithms
+%C 
+%I 
+%V 11
+%6
+%N 4
+%P 644-654
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F har-1990
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Henrion, R.
+%D 1994
+%T N-way principal component analysis: theory, algorithms and applications
+%E 
+%B Chemometrics and intelligent laboratory systems
+%C 
+%I Elsevier
+%V 25
+%6
+%N 1
+%P 1-23
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F henrion-nway-1994
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Henrion, R.
+%D 1993
+%T Body diagonalization of core matrices in three-way principal components analysis: Theoretical bounds and simulation
+%E 
+%B J. Chemometrics
+%C 
+%I Wiley
+%V 7
+%6
+%N 
+%P 477-477
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F henrion-diag-1993
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hitchcock, F. L.
+%D 1927
+%T Multiple invariants and generalized rank of a p-way matrix or tensor
+%E 
+%B J. Math. Phys
+%C 
+%I 
+%V 7
+%6
+%N 1
+%P 39-79
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hitchcock-rank-1927
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hitchcock, F. L.
+%D 1927
+%T The expression of a tensor or a polyadic as a sum of products
+%E 
+%B J. Math. Phys
+%C 
+%I 
+%V 6
+%6
+%N 1
+%P 164-189
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hitchcock-sum-1927
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Holtz, S.; Rohwedder, T. & Schneider, R.
+%D 2012
+%T The alternating linear scheme for tensor optimization in the tensor train format
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 34
+%6
+%N 2
+%P A683-A713
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F holtz-ALS-DMRG-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Holtz, S.; Rohwedder, T. & Schneider, R.
+%D 2012
+%T On manifolds of tensors of fixed TT--rank
+%E 
+%B Numer. Math.
+%C 
+%I 
+%V 120
+%6
+%N 4
+%P 701-731
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F holtz-manifolds-fixed-rank-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Holtz, S.; Rohwedder, T. & Schneider, R.
+%D 2010
+%T On manifolds of tensors of fixed TT--rank
+%E 
+%B 
+%C 
+%I TU Berlin
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 61
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F holtz-manifolds-fixed-rank-2010-pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Hu, L.Q.; Wu, H.L.; Ding, Y.J.; Fang, D.M.; Xia, A. & Yu, R.Q.
+%D 2006
+%T Alternating asymmetric trilinear decomposition for three-way data arrays analysis
+%E 
+%B Chemometrics and Intelligent Laboratory Systems
+%C 
+%I 
+%V 82
+%6
+%N 
+%P 145-153
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F hu-ALS-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Huckle, T.; Waldherr, K. & Schulte-Herbr\"uggen, T.
+%D 2013
+%T Computations in quantum tensor networks
+%E 
+%B Linear Algebra Appl.
+%C 
+%I 
+%V 438
+%6
+%N 
+%P 750-781
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F huckle-networks-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Huckle, T.; Waldherr, K. & Schulte-Herbr\"uggen, T.
+%D 2012
+%T Exploiting matrix symmetries and physical symmetries in Matrix Product States and Tensor Trains
+%E 
+%B 
+%C 
+%I {TU M\"unchen}
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F Huckle-Symmetries-2012pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Huckle, T; Waldherr, K. & Schulte-Herbruggen, T.
+%D 2010
+%T Computations of quantum tensor networks
+%E 
+%B 
+%C M\"unchen
+%I {TU M\"unchen}
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ {}
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F Huckle-Quant-ten-networks-2010pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Huckle, T. K.; Waldherr, K. & Schulte-Herbr\"uggen, T.
+%D 2013
+%T Exploiting matrix symmetries and physical symmetries in matrix product states and tensor trains
+%E 
+%B Linear and Multilinear Algebra
+%C 
+%I 
+%V 61
+%6
+%N 1
+%P 91-122
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F huckle-symmetries-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Ibraghimov, I.
+%D 2002
+%T Application of the three-way decomposition for matrix compression
+%E 
+%B Numer. Linear Algebra Appl.
+%C 
+%I 
+%V 9
+%6
+%N 6-7
+%P 551-565
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F ilghiz-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Ishteva, M.; de Lathauwer, L.; Absil, P. A. & van Huffel, S.
+%D 2009
+%T Differential-geometric Newton method for the best rank-$(r_1, r_2, r_3)$ approximation of tensors
+%E 
+%B Numerical Algorithms
+%C 
+%I Springer
+%V 51
+%6
+%N 2
+%P 179-194
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-difnew-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Kazeev, V.; Khammash, M.; Nip, M. & Schwab, C.
+%D 2013
+%T Direct Solution of the Chemical Master Equation using Quantized Tensor Trains
+%E 
+%B 
+%C 
+%I SAM, ETH Z\"{u}rich
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Research Report
+%? 
+%! 
+%Z 
+%@ 04
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F kkns-cme-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Thesis
+%A Khoromskaia, V.
+%D 2010
+%T Numerical solution of the Hartree-Fock equation by multilevel tensor-structured methods
+%E 
+%B 
+%C 
+%I TU Berlin
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 phdthesis
+%4 
+%# 
+%$ 
+%F venera-phd
+%K 
+%X 
+%Z 
+%U http://opus.kobv.de/tuberlin/volltexte/2011/2948/
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskaia, V.
+%D 2008
+%T Computation of the Hartree-Fock exchange by tensor-structured methods
+%E 
+%B Comput. Methd. Appl. Math.
+%C 
+%I 
+%V 10
+%6
+%N 2
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F vekh-hartree-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskaia, Venera; Andrae, Dirk & Khoromskij, Boris N.
+%D 2012
+%T Fast and accurate tensor calculation of the Fock operator in a general basis
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 4
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F vkh-fock-2012pre
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2012/preprint2012_4.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskaia, Venera; Khoromskij, Boris N. & Schneider, Reinhold
+%D 2013
+%T Tensor-structured factorized calculation of two-electron integrals in a general basis
+%E 
+%B SIAM J Sci Comp
+%C 
+%I 
+%V 35
+%6
+%N 2
+%P A987-A1010
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F vkhs-2el-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskaia, Venera; Khoromskij, Boris N. & Schneider, Reinhold
+%D 2012
+%T Tensor-structured factorized calculation of two-electron integrals in a general basis
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 29
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F vkhs-2el-2012pre
+%K 
+%X 
+%Z 
+%U http://www.mis.mpg.de/preprints/2012/preprint2012_29.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskaia, V.; Khoromskij, B. N. & Schneider, R.
+%D 2011
+%T QTT representation of the Hartree and exchange operators in electronic structure calculations
+%E 
+%B Comput. Meth. Appl. Math
+%C 
+%I 
+%V 11
+%6
+%N 3
+%P 327-341
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F vekh-qtt-hartree-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B.N. & Schwab, Ch.
+%D 2011
+%T Tensor-structured Galerkin approximation of parametric and stochastic elliptic PDEs
+%E 
+%B SIAM J. of Sci. Comp.
+%C 
+%I 
+%V 33
+%6
+%N 1
+%P 1-25
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F KhSch-Galerkin-SPDE-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskij, B.N. & Schwab, Ch.
+%D 2010
+%T Tensor-structured Galerkin approximation of parametric and stochastic elliptic PDEs
+%E 
+%B 
+%C 
+%I ETH Z\"{u}rich
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Research Report
+%? 
+%! 
+%Z 
+%@ 04
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F KhSch-Galerkin-SPDE-2010pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2012
+%T Tensor-structured numerical methods in scientific computing: Survey on recent advances
+%E 
+%B Chemometr. Intell. Lab. Syst.
+%C 
+%I 
+%V 110
+%6
+%N 1
+%P 1-19
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-survey-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2011
+%T $O(d  N)$--Quantics approximation of $N$--$d$ tensors in high-dimensional numerical modeling
+%E 
+%B Constr. Appr.
+%C 
+%I 
+%V 34
+%6
+%N 2
+%P 257-280
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-qtt-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2010
+%T Fast and accurate tensor approximation of multivariate convolution with linear scaling in dimension
+%E 
+%B J. Comp. Appl. Math.
+%C 
+%I 
+%V 234
+%6
+%N 11
+%P 3122-3139
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-acc-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskij, B. N.
+%D 2010
+%T Introduction to tensor numerical methods in scientific computing
+%E 
+%B 
+%C 
+%I University of {Z\"urich}
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint, Lecture Notes
+%? 
+%! 
+%Z 
+%@ 06-2011
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F khor-lectures-2010
+%K 
+%X 
+%Z 
+%U http://www.math.uzh.ch/fileadmin/math/preprints/06_11.pdf
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskij, B. N.
+%D 2010
+%T Tensor-structured numerical methods in scientific computing: Survey on recent advances
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 21
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F khor-survey-2010pre
+%K 
+%X 
+%Z 
+%U www.mis.mpg.de/preprints/2010/preprint2010_21.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2009
+%T Tensor-structured preconditioners and approximate inverse of elliptic operators in $R^d$
+%E 
+%B Constr. Approx
+%C 
+%I 
+%V 
+%6
+%N 30
+%P 599-620
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-prec-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Khoromskij, B. N.
+%D 2009
+%T $O(d N)$-Quantics Approximation of $N$-d Tensors in High-Dimensional Numerical Modeling
+%E 
+%B 
+%C Leipzig
+%I MPI MIS
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 55
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F khor-qtt-2009pre
+%K 
+%X 
+%Z 
+%U http://www.mis.mpg.de/preprints/2009/preprint2009_55.pdf
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2008
+%T On tensor approximation of Green iterations for Kohn-Sham equations
+%E 
+%B Computing and visualization in science
+%C 
+%I 
+%V 11
+%6
+%N 4-6
+%P 259-271
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-green-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.
+%D 2006
+%T Structured rank-$(r_1,,r_d)$ decomposition of function-related operators in $R^d$
+%E 
+%B Comput. Meth. Appl. Math
+%C 
+%I 
+%V 6
+%6
+%N 2
+%P 194-220
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-rstruct-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N. & Khoromskaia, V.
+%D 2009
+%T Multigrid accelerated tensor approximation of function related multidimensional arrays
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 31
+%6
+%N 4
+%P 3002-3026
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-ml-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N. & Khoromskaia, V.
+%D 2007
+%T Low rank Tucker-type tensor approximation to classical potentials
+%E 
+%B Central European journal of mathematics
+%C 
+%I 
+%V 5
+%6
+%N 3
+%P 523-550
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-tuckertype-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.; Khoromskaia, V.; Chinnamsetty, S. R. & Flad, H.-J.
+%D 2009
+%T Tensor decomposition in electronic structure calculations on 3D Cartesian grids
+%E 
+%B J. Comput. Phys.
+%C 
+%I 
+%V 228
+%6
+%N 16
+%P 5749-5762
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F mpi-chem3d-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Khoromskij, B. N.; Khoromskaia, V. & Flad., H.-J.
+%D 2011
+%T Numerical solution of the Hartree--Fock equation in multilevel tensor-structured format
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 33
+%6
+%N 1
+%P 45-65
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F khor-chem-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kiers, H.A.L.
+%D 1998
+%T A three-step algorithm for CANDECOMP/PARAFAC analysis of large data sets with multicollinearity
+%E 
+%B Journal of Chemometrics
+%C 
+%I 
+%V 12
+%6
+%N 3
+%P 155-171
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F kiers-3step-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kiers, H.A.L. & Van Mechelen, I.
+%D 2001
+%T Three-way component analysis: Principles and illustrative application
+%E 
+%B Psychological methods
+%C 
+%I American Psychological Association
+%V 6
+%6
+%N 1
+%P 84-110
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F kiers-3way-2001
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kolda, T. G. & Bader, B. W.
+%D 2009
+%T Tensor decompositions and applications
+%E 
+%B SIAM Review
+%C 
+%I 
+%V 51
+%6
+%N 3
+%P 455-500
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F kolda-review-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kressner, Daniel & Tobler, Christine
+%D 2011
+%T Low-rank tensor Krylov subspace methods for parametrized linear systems
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 32
+%6
+%N 4
+%P 273-290
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tobkress-param-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kressner, D. & Tobler, C.
+%D 2011
+%T Preconditioned low-rank methods for high-dimensional elliptic PDE eigenvalue problems
+%E 
+%B Computational Methods in Applied Mathematics
+%C 
+%I 
+%V 11
+%6
+%N 3
+%P 363-381
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tobler-ht_dmrg-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kressner, Daniel & Tobler, Christine
+%D 2010
+%T Krylov Subspace Methods for Linear Systems with Tensor Product Structure
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 31
+%6
+%N 
+%P 1688-1714
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F TobKress-Krylov-2010
+%K 
+%X 
+%Z 
+%U http://dx.doi.org/10.1137/090756843
+
+%+
+%^
+
+%0 
+%0 Report
+%A Kressner, Daniel & Tobler, Christine
+%D 2010
+%T Low-rank tensor Krylov subspace methods for parametrized linear systems
+%E 
+%B 
+%C 
+%I Seminar for applied mathematics, ETH Zurich
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Research Report
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F TobKress-Param-2010pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Kroonenberg, P.M.
+%D 2008
+%T Applied multiway data analysis
+%E 
+%B 
+%C 
+%I Wiley-Interscience
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F kroonenberg-mway-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Kroonenberg, P.M.
+%D 1983
+%T Three-mode principal component analysis: Theory and applications
+%E 
+%B 
+%C 
+%I DSWO press
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F kroonenberg-3mode-1983
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kroonenberg, P.M. & de Leeuw, J.
+%D 1980
+%T Principal component analysis of three-mode data by means of alternating least squares algorithms
+%E 
+%B Psychometrika
+%C 
+%I 
+%V 45
+%6
+%N 1
+%P 69-97
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tuckerals-1980
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Kruskal, J.B.
+%D 1977
+%T Three-way arrays: Rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics
+%E 
+%B Linear Algebra Appl.
+%C 
+%I 
+%V 18
+%6
+%N 2
+%P 95-138
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F kruskal-1977
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Landry, W.
+%D 2003
+%T Implementing a high performance tensor library
+%E 
+%B Scientific Programming
+%C 
+%I IOS Press
+%V 11
+%6
+%N 4
+%P 273-290
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F landry-highperftensor-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Conference Proceedings
+%A de Lathauwer, L.
+%D 2009
+%T A survey of tensor methods
+%E 
+%B IEEE International Symposium on Circuits and Systems
+%C 
+%I 
+%V 
+%6
+%N 
+%P 2773-2776
+%& 
+%Y 
+%S 
+%7
+%8 May
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 inproceedings
+%4 
+%# 
+%$ 
+%F dela-survey-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Lathauwer, L. & de Baynast, A.
+%D 2008
+%T Blind deconvolution of DS-CDMA signals by means of decomposition in rank-($1, L, L$) terms
+%E 
+%B IEEE Trans. on Signal Processing
+%C 
+%I 
+%V 56
+%6
+%N 4
+%P 1562
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-cdma-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Lathauwer, L.; Castaing, J. & Cardoso, J.F.
+%D 2007
+%T Fourth-order cumulant-based blind identification of underdetermined mixtures
+%E 
+%B IEEE Trans. on Signal Processing
+%C 
+%I 
+%V 55
+%6
+%N 6
+%P 2965-2973
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-cum-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Conference Proceedings
+%A de Lathauwer, L. & de Moor, B.
+%D 1998
+%T From matrix to tensor: Multilinear algebra and signal processing
+%E 
+%B Institute of mathematics and its applications conference series
+%C 
+%I 
+%V 67
+%6
+%N 
+%P 1-16
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 inproceedings
+%4 
+%# 
+%$ 
+%F lathauwer-mult-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Lathauwer, L.; de Moor, B. & Vandewalle, J.
+%D 2004
+%T Computing of canonical decomposition by means of a simultaneous generalized Schur decomposition
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 26
+%6
+%N 
+%P 295-327
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-schur-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Lathauwer, L.; de Moor, B. & Vandewalle, J.
+%D 2000
+%T On best rank-1 and rank-($R_1, R_2, ..., R_N$) approximation of high-order tensors
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 21
+%6
+%N 
+%P 1324-1342
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-rank1-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Lathauwer, L.; de Moor, B. & Vandewalle, J.
+%D 2000
+%T A multilinear singular value decomposition
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 21
+%6
+%N 
+%P 1253-1278
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-svd-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Le Bris, C.; Leli\'e,vre, T. & Maday, Y.
+%D 2009
+%T Results and Questions on a Nonlinear Approximation Approach for Solving High-dimensional Partial Differential Equations
+%E 
+%B Constr. Approx.
+%C 
+%I 
+%V 30
+%6
+%N 
+%P 621-651
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F maday-greedy-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Leurgans, S. & Ross, R.T.
+%D 1992
+%T Multilinear models: applications in spectroscopy
+%E 
+%B Statistical Science
+%C 
+%I Institute of Mathematical Statistics
+%V 7
+%6
+%N 3
+%P 289-310
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F leurgans-multmod-1992
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Liu, R. & Owen, A.B.
+%D 2006
+%T Estimating mean dimensionality of analysis of variance decompositions
+%E 
+%B Journal of the American Statistical Association
+%C 
+%I ASA
+%V 101
+%6
+%N 474
+%P 712-721
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F liu-anova-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A van Loan, Ch. F.
+%D 2008
+%T Tensor network computations in quantum chemistry
+%E 
+%B 
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ {}
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F vanloan-Ten-Net-Comput-2008
+%K 
+%X 
+%Z 
+%U www.cs.cornell.edu/cv/OtherPdf/ZeuthenCVL.pdf
+
+%+
+%^
+
+%0 
+%0 Book Section
+%A van Loan, C. F. & Pitsianis, N.
+%D 1993
+%T Approximation with Kronecker products
+%E 
+%B Linear algebra for large scale and real-time applications ({L}euven, 1992)
+%C Dordrecht
+%I 
+%V 232
+%6
+%N 
+%P 293-314
+%& 
+%Y 
+%S NATO Adv. Sci. Inst. Ser. E Appl. Sci.
+%7 
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 incollection
+%4 
+%# 
+%$ 
+%F vanloan-approx-kron-prod-1993
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Lubich, Christian; Rohwedder, Thorsten; Schneider, Reinhold & Vandreycken, Bart
+%D 2012
+%T Dynamical approximation of hierarchical Tucker and tensor-train tensors
+%E 
+%B 
+%C 
+%I University of T\"ubingen
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F lubich-dynht-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A M\o,rup, M.; Hansen, L.K. & Arnfred, S.M.
+%D 2007
+%T ERPWAVELAB a toolbox for multi-channel analysis of time--frequency transformed event related potentials
+%E 
+%B Journal of neuroscience methods
+%C 
+%I Elsevier
+%V 161
+%6
+%N 2
+%P 361-368
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F morup2-wavtoolbox-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A M\o,rup, M.; Hansen, L.K.; Herrmann, C.S.; Parnas, J. & Arnfred, S.M.
+%D 2006
+%T Parallel factor analysis as an exploratory tool for wavelet transformed event-related EEG
+%E 
+%B NeuroImage
+%C 
+%I Elsevier
+%V 29
+%6
+%N 3
+%P 938-947
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F morup-waveeg-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Mahoney, M. W.; Maggioni, M. & Drineas, P.
+%D 2008
+%T Tensor-CUR decompositions for tensor-based data
+%E 
+%B SIAM J. Matr. Anal. Appl.
+%C 
+%I 
+%V 30
+%6
+%N 3
+%P 957-987
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F mahoney-simax-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Miwakeichi, F.; Martinez-Montes, E.; Valdes-Sosa, P.A.; Nishiyama, N.; Mizuhara, H. & Yamaguchi, Y.
+%D 2004
+%T Decomposing EEG data into space--time--frequency components using parallel factor analysis
+%E 
+%B NeuroImage
+%C 
+%I Elsevier
+%V 22
+%6
+%N 3
+%P 1035-1045
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F miwakeichi-eeg-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Muti, D. & Bourennane, S.
+%D 2005
+%T Multidimensional filtering based on a tensor approach
+%E 
+%B Signal Processing
+%C 
+%I 
+%V 85
+%6
+%N 12
+%P 2338-2353
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F muti-filter-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Nielsen, H. B.
+%D 1999
+%T Damping parameter in Marquardt's method
+%E 
+%B 
+%C Denmark
+%I TU Inform. Math. Model.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 
+%? 
+%! 
+%Z 
+%@ {}
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F nielsen-lm-2001
+%K 
+%X 
+%Z 
+%U www.imm.dtu.dk/~hbn/publ/TR9905.ps
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Nouy, A.
+%D 2010
+%T A priori model reduction through proper generalized decomposition for solving time-dependent partial differential equations
+%E 
+%B Computer Methods in Applied Mechanics and Engineering
+%C 
+%I 
+%V 199
+%6
+%N 23
+%P 1603-1626
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F nouy-modred-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Paatero, P.
+%D 1999
+%T The multilinear engine: a table-driven, least squares program for solving multilinear problems, including the n-way parallel factor analysis model
+%E 
+%B Journal of Computational and Graphical Statistics
+%C 
+%I American Statistical Association, Institute of Mathematical Statistics, and Interface Foundation of North America
+%V 
+%6
+%N 
+%P 854-888
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F paatero-engine-1999
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A von Petersdorff, T. & Schwab, Ch.
+%D 2004
+%T Numerical solution of parabolic equations in high dimensions
+%E 
+%B ESAIM: Mathematical Modelling and Numerical Analysis
+%C 
+%I 
+%V 38
+%6
+%N 01
+%P 93-127
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F PeterSchwab-parabolic-2004
+%K 
+%X 
+%Z 
+%U http://dx.doi.org/10.1051/m2an:2004005
+
+%+
+%^
+
+%0 
+%0 Report
+%A Rohwedder, T.; Holtz, S. & Schneider, R.
+%D 2010
+%T The alternation least squares scheme for tensor optimisation in the TT-format
+%E 
+%B 
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint DFG-Schwerpunktprogramm 1234
+%? 
+%! 
+%Z 
+%@ 71
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F holtz-ALS-DMRG-2010pre
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Rohwedder, T. & Uschmajew, A.
+%D 2013
+%T Local convergence of alternating schemes for optimization of convex problems in the TT format
+%E 
+%B SIAM J Num. Anal.
+%C 
+%I 
+%V 51
+%6
+%N 2
+%P 1134-1162
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F ushmaev-tt-2013
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Rohwedder, T. & Uschmajew, A.
+%D 2011
+%T Local convergence of alternating schemes for optimization of convex problems in the TT format
+%E 
+%B 
+%C 
+%I DFG-SPP1324
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ 112
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F rohwedder-als_conv-2011
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Rokhlin, V. & Yarvin, N.
+%D 1998
+%T Generalized Gaussian quadratures in singular value decompositions of integral operators
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 20
+%6
+%N 2
+%P 699-718
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F rokhlin-gauss-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Savas, B. & Eld\'en, L.
+%D 2010
+%T Krylov-type methods for tensor computations
+%E 
+%B 
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 May
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ arXiv:1005.0683[math.NA]
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F eldensavas-krylov-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Report
+%A Savas, B. & Eld\'en, L.
+%D 2009
+%T Krylov subspace methods for tensor computations
+%E 
+%B 
+%C Link\"oping
+%I Dep. Math. Link\"opings Univ.
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9 Preprint
+%? 
+%! 
+%Z 
+%@ LITH-MAT-R-2009-02-SE
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 techreport
+%4 
+%# 
+%$ 
+%F eldensavas-krylov-2009
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Schneider, J.
+%D 2010
+%T Error estimates for two--dimensional cross approximation
+%E 
+%B J. Approx. Theory
+%C 
+%I 
+%V 162
+%6
+%N 
+%P 1685-1700
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F schneider-cross2d-2010
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Sidiropoulos, N.D.; Bro, R. & Giannakis, G.B.
+%D 2000
+%T Parallel factor analysis in sensor array processing
+%E 
+%B IEEE transactions on Signal Processing
+%C 
+%I 
+%V 48
+%6
+%N 8
+%P 2377-2388
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F sidiropoulos-nway-2000
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Silva, V. & Lim, L.-H.
+%D 2008
+%T Tensor rank and the ill-posedness of the best low-rank approximation problem
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 30
+%6
+%N 3
+%P 1084-1127
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F desilva-2008
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Sloan, I.H. & Wozniakowski, H.
+%D 1998
+%T When are quasi-Monte Carlo algorithms efficient for high dimensional integrals
+%E 
+%B J. of Complexity
+%C 
+%I Elsevier
+%V 14
+%6
+%N 1
+%P 1-33
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F sloan-quasi-MC-1998
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Book
+%A Smilde, A.K.; Bro, R. & Geladi, P.
+%D 2004
+%T Multi-way analysis with applications in the chemical sciences
+%E 
+%B 
+%C 
+%I Wiley
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7 
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 book
+%4 
+%# 
+%$ 
+%F smilde-book-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Smilde, A. K.; Tauler, R.; Henshaw, J. M.; Burgess, L. W. & Kowalski, B. R.
+%D 1994
+%T Multicomponent determination of chlorinated hydrocarbons using a reaction-based chemical sensor. 3. Medium-rank second-order calibration with restricted Tucker models
+%E 
+%B Analytical Chemistry
+%C 
+%I American Chemical Society
+%V 66
+%6
+%N 20
+%P 3345-3351
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F smilde-multicomp-1994
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Smolyak, S. A.
+%D 1964
+%T Quadrature and interpolation formulas for tensor products of certain class of functions
+%E 
+%B Dokl. Akad. Nauk SSSR
+%C 
+%I 
+%V 148
+%6
+%N 5
+%P 1042-1053
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F smolyak-1963
+%K 
+%X 
+%Z Transl.: Soviet Math. Dokl. 4:240-243, 1963
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Strassen, V.
+%D 1969
+%T Gaussian elimination is not optimal
+%E 
+%B Numerische Mathematik
+%C 
+%I Springer
+%V 13
+%6
+%N 4
+%P 354-356
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F strassen-gaussian-1969
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Sun, J.; Papadimitriou, S. & Yu, P.S.
+%D 2006
+%T Window-based tensor analysis on high-dimensional and multi-aspect streams
+%E 
+%B Proc. ICDM2006
+%C 
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F sun-window-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Todor, R. A. & Schwab, Ch.
+%D 2007
+%T Convergence rates for sparse chaos approximations of elliptic problems with stochastic coefficients
+%E 
+%B IMA J. Numer. Anal.
+%C 
+%I 
+%V 27
+%6
+%N 
+%P 232-261
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Schwab-Todor-converg_PC-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Traud, Amanda L.; Kelsic, Eric D.; Mucha, Peter J. & Porter, Mason A.
+%D 2011
+%T Comparing community structure to characteristics in online collegiate social networks
+%E 
+%B SIAM Rev.
+%C 
+%I 
+%V 53
+%6
+%N 3
+%P 526-543
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F facebook
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Tucker, L.R.
+%D 1963
+%T Implications of factor analysis of three-way matrices for measurement of change
+%E 
+%B Problems in measuring change
+%C 
+%I 
+%V 
+%6
+%N 
+%P 122-137
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tucker-factor-1963
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Tucker, L. R.
+%D 1966
+%T Some mathematical notes on three-mode factor analysis
+%E 
+%B Psychometrika
+%C 
+%I 
+%V 31
+%6
+%N 
+%P 279-311
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Tucker
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Tucker, L. R.
+%D 1964
+%T The extension of factor analysis to three-dimensional matrices
+%E 
+%B Contributions to mathematical psychology
+%C 
+%I 
+%V 
+%6
+%N 
+%P 109-127
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F tucker-factor-1964
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Uschmajew, A.
+%D 2012
+%T Local convergence of the alternating least squares algorithm for canonical tensor approximation
+%E 
+%B SIAM J Matr. Anal. Appl.
+%C 
+%I 
+%V 33
+%6
+%N 2
+%P 639-652
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F ushmaev-cp-2012
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Vasilescu, M.A.O. & Terzopoulos, D.
+%D 2002
+%T Multilinear analysis of image ensembles: Tensorfaces
+%E 
+%B Lecture Notes in Computer Science
+%C 
+%I Springer
+%V 
+%6
+%N 
+%P 447-460
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F vasilescu-tensorfaces-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Venkiteswaran, G. & Junk, M.
+%D 2005
+%T A QMC approach for high dimensional Fokker-Planck equations modelling polymeric liquids
+%E 
+%B Mathematics and Computers in Simulation
+%C 
+%I 
+%V 68
+%6
+%N 1
+%P 43 - 56
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F VJunk-QMC-for-FP-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Verstraete, F.; Garc\'\i,a-Ripoll, J. J. & Cirac, J. I.
+%D 2004
+%T Matrix Product Density Operators: Simulation of Finite-Temperature and Dissipative Systems
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 93
+%6
+%N 
+%P 207204
+%& 
+%Y 
+%S 
+%7
+%8 November
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F verstraete-mpo-2004
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Vidal, Guifr\'e,
+%D 2003
+%T Efficient classical simulation of slightly entangled quantum computations
+%E 
+%B Phys. Rev. Lett.
+%C 
+%I 
+%V 91
+%6
+%N 14
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Vidal-Effic-Simul-Quant-comput-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Vos, M.; de Lathauwer, L.; Vanrumste, B.; van Huffel, S. & van Paesschen, W.
+%D 2007
+%T Canonical decomposition of ictal scalp EEG and accurate source localisation: Principles and simulation study
+%E 
+%B Computational Intelligence and Neuroscience
+%C 
+%I 
+%V 2007
+%6
+%N 
+%P 58253
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-ictal2-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A de Vos, M.; Vergult, A.; de Lathauwer, L.; de Clercq, W.; van Huffel, S.; Dupont, P.; Palmini, A. & van Paesschen, W.
+%D 2007
+%T Canonical decomposition of ictal scalp EEG reliably detects the seizure onset zone
+%E 
+%B NeuroImage
+%C 
+%I 
+%V 37
+%6
+%N 3
+%P 844-854
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F lathauwer-ictal-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Wang, J.-H.; Hopke, P. K.; Hancewicz, T. M. & Zhang, S. L.
+%D 2003
+%T Application of modified least squares regression to spectroscopic image analysis
+%E 
+%B Analys Chim. Acta.
+%C 
+%I 
+%V 476
+%6
+%N 
+%P 93-109
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F zhang-mals-2003
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Wang, X. & Sloan, I. H.
+%D 2006
+%T Why are high-dimensional finance problems often of low effective dimension?
+%E 
+%B SIAM J. Sci. Comput.
+%C 
+%I 
+%V 27
+%6
+%N 1
+%P 159-183
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F wang-high-dim-finance-2006
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Generic
+%A Werner, H.-J.; Knowles, P. J.; Lindh, R.; Manby, F. R.; Sch\"u,tz, M. & others
+%D 2008
+%T MOLPRO, a package of ab initio programs
+%E
+%B 
+%C
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 misc
+%4 
+%# 
+%$ 
+%F molpro
+%K 
+%X 
+%Z see http://www.molpro.net
+
+
+%+
+%^
+
+%0 
+%0 Generic
+%A Wise, B. M.; Gallagher, N. B.; Bro, R.; Shaver, J. M.; Windig, W. & Koch, R. S.
+%D 2007
+%T PLS Toolbox 4.0
+%E
+%B 
+%C
+%I 
+%V 
+%6
+%N 
+%P 
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 misc
+%4 
+%# 
+%$ 
+%F wise-plstoolbox-2007
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Yeredor, A.
+%D 2002
+%T Non-orthogonal joint diagonalization in the least-squares sensewith application in blind source separation
+%E 
+%B IEEE Trans. on Signal Proc.
+%C 
+%I 
+%V 50
+%6
+%N 7
+%P 1545-1553
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F yeredor-acdc-2002
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Yserentant, H.
+%D 2005
+%T Sparse grid spaces for the numerical solution of the electronic Schrodinger equation
+%E 
+%B Numer. Math.
+%C 
+%I 
+%V 101
+%6
+%N 2
+%P 381-389
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F Yserentant-Sparse-Grids-Schroedinger-2005
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Zhang, T. & Golub, G. H.
+%D 2001
+%T Rank-one approximation to high-order tensors
+%E 
+%B SIAM J. Matrix Anal. Appl.
+%C 
+%I 
+%V 23
+%6
+%N 
+%P 534-550
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F zhang-rank1-2001
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
+%0 
+%0 Journal Article
+%A Смоляк, С. А.
+%D 1964
+%T Квадратурные и интерполяционные формулы на тензорных произведениях некоторых классов функций
+%E 
+%B Докл. АН СССР
+%C 
+%I 
+%V 148
+%6
+%N 5
+%P 1042-1053
+%& 
+%Y 
+%S 
+%7
+%8 
+%9
+%? 
+%! 
+%Z 
+%@ 
+%(
+%)
+%*
+%L
+%M
+
+
+%2 
+%3 article
+%4 
+%# 
+%$ 
+%F smolyak-1963rus
+%K 
+%X 
+%Z 
+
+
+%+
+%^
+
