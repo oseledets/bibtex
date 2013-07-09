@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TMPDIR=.
+export TMPDIR=.
 
 #bib2bib -ob my_paper_d.bib -c 'author : "Dolgov" and type : "article"' -s 'year' -r bibtex/our.bib
 bib2bib -ob talks_sav.bib -c 'author : "Savostyanov" and not type : "local"' -s 'year' -r ~/Report/bibtex/talks.bib
