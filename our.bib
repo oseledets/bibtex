@@ -390,17 +390,6 @@ newversion={khst-eigen-2012},
 area={tensors},
 }
 
-@article{khst-eigen-2012,
-author={Hackbusch, W. and  Khoromskij, B. N. and Sauter, S. A. and Tyrtyshnikov, E. E.},
-title={Use of tensor formats in elliptic eigenvalue problems},
-journal = {Numer. Linear Algebra Appl.},
-volume={19},
-number={1},
-pages={133-151},
-year = {2012},
-doi = {10.1002/nla.793},
-area={tensors},
-}
 
 @article{hkt-iter-2008,
 author={Hackbusch, W. and Khoromskij, B. N and Tyrtyshnikov, E. E.},
@@ -781,6 +770,7 @@ year={2010},
 volume={10},
 number={4},
 pages={376-394},
+doi={10.2478/cmam-2010-0023},
 area={tensors},
 }
 
@@ -1063,7 +1053,7 @@ doi={10.1109/nDS.2011.6076873},
 area={tensors},
 }
 
-@techreport{dc-tt_gmres-2012pre,
+@techreport{dc-ttgmres-2012pre,
 title = {{TT-GMRES:} on solution to a linear system in the structured tensor format},
 author = {Dolgov, S. V.},
 year = {2012},
@@ -1071,10 +1061,10 @@ type = {{arXiv} preprint},
 number = {1206.5512 (To appear in: {Rus. J. of Num. An. and Math. Model.})},
 url = {http://arxiv.org/abs/1206.5512},
 area={tensors},
-newversion={dc-tt_gmres-2013},
+newversion={dc-ttgmres-2013},
 }
 
-@article{dc-tt_gmres-2013,
+@article{dc-ttgmres-2013,
 author= {Dolgov, S. V.},
 title = {{TT-GMRES:} solution to a linear system in the structured tensor format},
 journal={Russ. J. Numer. Anal. Math. Modelling},
@@ -1084,11 +1074,22 @@ number = {2},
 pages = {149-172},
 doi = {10.1515/rnam-2013-0009},
 area = {tensors},
-oldversion = {dc-tt_gmres-2012pre},
+oldversion = {dc-ttgmres-2012pre},
 }
 
 
 %2012
+@article{khst-eigen-2012,
+author={Hackbusch, W. and  Khoromskij, B. N. and Sauter, S. A. and Tyrtyshnikov, E. E.},
+title={Use of tensor formats in elliptic eigenvalue problems},
+journal = {Numer. Linear Algebra Appl.},
+volume={19},
+number={1},
+pages={133-151},
+year = {2012},
+doi = {10.1002/nla.793},
+area={tensors},
+}
 
 @article{tee-tellegen-2012,
 author= {Tyrtyshnikov, E. E. and Olshevsky, V. and Zhlobich, P.},
@@ -1452,15 +1453,8 @@ area={tensors,toeplitz},
   doi={10.1016/j.jmr.2013.07.011}
 }
 
-@article{rst-volterra-2013,
- author={Roberts, J. A. and Savostyanov, D. V. and Tyrtyshnikov, E. E.},
- title={Superfast solution of linear convolutional {Volterra} equations using {QTT} approximation},
- journal={J. Comput. Appl. Math.},
- year={2013},
- doi={10.1016/j.cam.2013.10.025},
-}
 
-@techreport{dst-fb-2013,
+@techreport{dst-fb-2013pre,
 author={Dolgov, S. V. and Smirnov, A. P. and Tyrtyshnikov, E. E.},
 title={Low-rank approximation in the numerical modeling of the {F}arley-{B}uneman instability in ionospheric plasma},
 type={{arXiv} preprint},
@@ -1468,6 +1462,7 @@ number={1308.5952},
 year={2013},
 url = {http://arxiv.org/abs/1308.5952},
 area={tensors,plasma},
+newversion={dst-fb-2014},
 }
 
 @article{cor-pbm-2013,
@@ -1530,3 +1525,44 @@ year = {2013},
 doi = {10.1016/j.laa.2013.01.009},
 oldversion={kva-anidiff-2012pre},
 }
+
+@techreport{ds-dmrgamen-2013pre,
+author={Dolgov, S. V. and Savostyanov, D. V.},
+title={One-site density matrix renormalization group and alternating minimum energy algorithm},
+type={{arXiv} preprint},
+number={1312.6542},
+year={2013},
+url = {http://arxiv.org/abs/1312.6542},
+area={tensors,dmrg},
+}
+%
+%% 2014
+%
+@article{rst-volterra-2014,
+ author={Roberts, J. A. and Savostyanov, D. V. and Tyrtyshnikov, E. E.},
+ title={Superfast solution of linear convolutional {Volterra} equations using {QTT} approximation},
+ journal={J. Comput. Appl. Math.},
+ volume={260},
+ pages={434-448},
+ year={2014},
+ doi={10.1016/j.cam.2013.10.025},
+}
+
+@article{dkos-eigb-2014,
+ author={Dolgov, S. V. and Khoromskij, B. N. and Oseledets, I. V. and Savostyanov, D. V.},
+ title={Computation of extreme eigenvalues in higher dimensions using block tensor train format},
+ journal={Computer Phys. Comm.},
+ year={2014},
+ doi={10.1016/j.cpc.2013.12.017}
+}
+
+@article{dst-fb-2014,
+author={Dolgov, S. V. and Smirnov, A. P. and Tyrtyshnikov, E. E.},
+title={Low-rank approximation in the numerical modeling of the {F}arley-{B}uneman instability in ionospheric plasma},
+journal={J. Comp. Phys.},
+year={2014},
+doi = {10.1016/j.jcp.2014.01.029},
+area={tensors,plasma},
+oldversion={dst-fb-2013pre},
+}
+
