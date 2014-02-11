@@ -1227,8 +1227,8 @@ doi="10.1007/s00365-009-9076-9"
 	year = {2009},
 	volume = {15},
 	number = {5},
-	pages = {706--722},
-	publisher = {Springer}
+	pages = {706-722},
+	doi={10.1007/s00041-009-9094-9}
 }
 
 @techreport{hack-expsum-2009pre,
@@ -1402,14 +1402,15 @@ doi={10.1109/iscas.2009.5118377}
         url={http://www.math.uzh.ch/fileadmin/math/preprints/06_11.pdf}
 }
 
-@techreport{eldensavas-krylov-2010,
+@techreport{eldensavas-krylov-2010pre,
 author={Savas, B. and Eld\'en, L.},
 title = {Krylov-type methods for tensor computations},
 institution={},
 type={Preprint},
 year = {2010},
 month={May},
-number = {arXiv:1005.0683[math.NA]}
+number = {arXiv:1005.0683[math.NA]},
+newversion={eldensavas-krylov-2013}
 }
 
 @techreport{Huckle-Quant-ten-networks-2010pre,
@@ -1494,6 +1495,7 @@ institution={Seminar for applied mathematics, ETH Zurich}
 	volume = {31},
 	number = {4},
 	pages = {2029-2054},
+	doi={10.1137/090764189}
 
 }
 
@@ -1604,6 +1606,8 @@ url = {http://www.sciencedirect.com/science/article/pii/S0885064X10000270},
     year = {2011},
     doi = {10.1007/s00211-011-0393-0},
 }
+
+
 @article{khor-survey-2011,
 author={Khoromskij, B. N.},
 title={Tensor-structured numerical methods in scientific computing: {Survey} on recent advances},
@@ -1640,27 +1644,15 @@ doi={10.1016/j.chemolab.2011.09.001}
 
 
 @techreport{espig-regul-newton-canon-2011,
-	author = {Espig, M. and Hackbusch, W.},
-	title = {A regularized {Newton} method for the efficient approximation of tensors represented in the canonical format},
-	institution = {MPI MIS},
-	year = {2010},
-	type = {Preprint},
-	number = {78},
-	address = {Leipzig},
-	url = {www.mis.mpg.de/preprints/2010/preprint2009_78.pdf},
+author = {Espig, M. and Hackbusch, W.},
+title = {A regularized {Newton} method for the efficient approximation of tensors represented in the canonical format},
+institution = {MPI MIS},
+year = {2010},
+type = {Preprint},
+number = {78},
+address = {Leipzig},
+url = {http://www.mis.mpg.de/preprints/2010/preprint2010_78.pdf},
 }
-
-@article{hack-tenz-2011,
- author={Hackbusch, W.},
- title={Tensorisation of vectors and their efficient convolution},
- journal={Numerische Mathematik},
- year={2011},
- volume={119},
- number={3},
- pages={465-488},
- doi={10.1007/s00211-011-0393-0}
-}
-
 
 @article{khor-qtt-2011,
 author={Khoromskij, B. N.},
@@ -1753,8 +1745,11 @@ doi = {10.1137/100795772}
   author = {Canc\'{e}s, Eric and Ehrlacher, Virginie and Leli\'{e}vre, Tony},
   title = {Convergence of a greedy algorithm for high-dimensional convex nonlinear problems},
   journal = {Mathematical Models and Methods in Applied Sciences},
+  volume={21},
+  number={12},
+  pages={2433-2467},
   year = {2011},
-  url = {http://arxiv.org/abs/1004.0095},
+ doi={10.1142/S0218202511005799}
 }
 
 
@@ -1986,7 +1981,7 @@ type = {in preparation},
 institution = {MPI MIS},
 }
 
-@techreport{larskres-survey-2013,
+@techreport{larskres-survey-2013pre,
 author={Grasedyck, L. and Kressner,  D. and Tobler, C.},
 title={A literature survey of low-rank tensor approximation techniques},
 type={{arXiv} preprint},
@@ -1994,7 +1989,21 @@ number={1302.7121},
 year={2013},
 url = {http://arxiv.org/abs/1302.7121},
 area={tensors},
+newversion={larskres-survey-2013},
 }
+
+@article{larskres-survey-2013,
+author = {Grasedyck, L. and Kressner, D. and Tobler, C.},
+title = {A literature survey of low-rank tensor approximation techniques},
+journal = {GAMM-Mitteilungen},
+volume = {36},
+number = {1},
+doi = {10.1002/gamm.201310004},
+pages = {53--78},
+year = {2013},
+oldversion={larskres-survey-2013pre},
+}
+
 
 @techreport{kkns-cme-2013,
   title={Direct Solution of the Chemical Master Equation using Quantized Tensor Trains},
@@ -2118,9 +2127,88 @@ doi = {10.1093/imanum/drs047},
   institution={EPFL, Lausanne},
 }
 
+@article{eldensavas-krylov-2013,
+  title={Krylov-type methods for tensor computations {I}},
+  author={Savas, B. and Eld{\'e}n, L.},
+  journal={Linear Algebra and its Applications},
+  volume={438},
+  number={2},
+  pages={891--918},
+  year={2013},
+  oldversion={eldensavas-krylov-2010pre}
+}
+
 @phdthesis{domanov-phd,
 author={Domanov, I.},
 title={Study of Canonical Polyadic Decomposition of Higher-Order Tensors},
 institution={Faculty of Engineering, K.U.Leuven},
 year={2013},
+}
+
+@techreport{vekh-lattice-2013,
+author = {Khoromskaia, V. and Khoromskij, B. N.},
+title = {Grid-based lattice summation of electrostatic potentials by low-rank tensor approximation},
+institution = {MPI MIS},
+year = {2013},
+type = {Preprint},
+number = {116},
+url = {http://www.mis.mpg.de/preprints/2013/preprint2013_116.pdf},
+}
+
+@article{benner-lowrank-lyapunov-2013,
+author={Benner, P. and Breiten, T.},
+title={Low rank methods for a class of generalized Lyapunov equations and related issues},
+journal={Numerische Mathematik},
+volume={124},
+number={3},
+doi={10.1007/s00211-013-0521-0},
+pages={441-470},
+year={2013},
+}
+
+@techreport{stoll-lowrank-time-2013,
+author = {Stoll, M. and Breiten, T.},
+title =  {A low-rank in time approach to PDE-constrained optimization},
+number = {13-08},
+year = {2013},
+type = {MPI Magdeburg Preprint},
+url={http://www2.mpi-magdeburg.mpg.de/preprints/2013/MPIMD13-08.pdf},
+}
+
+@techreport{benner-spde-2013,
+author = {Benner, P. and Onwunta, A. and Stoll, M.},
+title =  {Low Rank Solution of Unsteady Diffusion Equations with Stochastic Coefficients},
+number = {13-13},
+year = {2013},
+type = {MPI Magdeburg Preprint},
+url={http://www2.mpi-magdeburg.mpg.de/preprints/2013/MPIMD13-13.pdf},
+}
+
+@techreport{benner-selfshift-2013,
+author = {Benner, P. and K\"urschner, P. and Saak, J.},
+title =  {Self-Generating and Efficient Shift Parameters in {ADI} Methods for Large {L}yapunov and {S}ylvester Equations},
+number = {13-18},
+year = {2013},
+type = {MPI Magdeburg Preprint},
+url={http://www2.mpi-magdeburg.mpg.de/preprints/2013/MPIMD13-18.pdf},
+}
+
+
+@techreport{stoll-frac-2013,
+author = {Breiten, T. and Simoncini, V. and Stoll, M.},
+title =  {Fast iterative solvers for fractional differential equations},
+number = {14-02},
+year = {2014},
+type = {MPI Magdeburg Preprint},
+url={http://www2.mpi-magdeburg.mpg.de/preprints/2014/MPIMD14-02.pdf},
+}
+
+@incollection{mach-innereig-2013,
+author={Mach, T.},
+title={Computing Inner Eigenvalues of Matrices in Tensor Train Matrix Format},
+publisher={Springer Berlin Heidelberg},
+pages={781-788},
+booktitle={Numerical Mathematics and Advanced Applications 2011},
+year={2013},
+doi={10.1007/978-3-642-33134-3_82},
 }
