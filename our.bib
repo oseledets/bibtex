@@ -20,7 +20,7 @@
     volume = {67},
     number = {2},
     pages = {261-269},
-    area = {matrices},
+    area = {toeplitz,matrices},
     doi = {10.1007/s002110050027},
 }
 
@@ -101,9 +101,7 @@ doi={10.1007/BF02358985}
     pages = {431-439},
     area = {toeplitz},
     doi = {10.1137/S0895479897331941},
-
 }
-
 
 @article{tee-cross-2000,
 author={Tyrtyshnikov, E. E.},
@@ -113,7 +111,8 @@ volume="64",
 number="4",
 pages="367-380",
 year="2000",
-doi={10.1007/s006070070031}
+doi={10.1007/s006070070031},
+area={matrices}
 }
 
 %%%2001
@@ -166,8 +165,8 @@ journal="Linear Algebra Appl.",
 volume="379",
 pages="423-437",
 year="2004",
+doi={10.1016/j.laa.2003.08.013},
 area={tensors},
-doi={10.1016/j.laa.2003.08.013}
 }
 
 @article{fot-wav-2004,
@@ -177,9 +176,9 @@ journal={Russ. J. Numer. Anal. Math. Modelling},
 volume={19},
 number={2},
 pages={185-204},
-area={tensors},
+year={2004},
 doi = {10.1515/156939804323089334},
-year={2004}
+area={tensors},
 }
 
 @article{st-eq-2004,
@@ -190,7 +189,7 @@ year={2004}
   number={4},
   pages={686-693},
   year={2004},
-area={misc},
+  area={misc},
 }
 
 %%%2005
@@ -200,8 +199,8 @@ title={Hierarchical {Kronecker} tensor-product approximations},
 journal="J. Numer. Math.",
 volume="13",
 pages="119-156",
+year="2005",
 area={tensors},
-year="2005"
 }
 
 @article{ot-hyper-2005,
@@ -210,9 +209,9 @@ title={Approximate inversion of matrices in the process of solving a hypersingul
 journal="Comput. Math. Math. Phys.",
 volume="45",
 number="2",
+pages="302-313",
 year="2005",
 area={matrices},
-pages="302-313",
 }
 
 @article{osel-wav-2006,
@@ -221,9 +220,9 @@ pages="302-313",
     journal={Math. Notes},
     volume={77},
     number={5-6},
+    pages={686-694},
     year={2005},
     area={misc},
-    pages={686-694}
 }
 %%%2006
 
@@ -235,8 +234,8 @@ volume={412},
 number={1},
 pages={1-21},
 year={2006},
+doi={10.1016/j.laa.2005.03.040},
 area={tensors, toeplitz},
-doi={10.1016/j.laa.2005.03.040}
 }
 
 @article{os-min-2006,
@@ -360,7 +359,7 @@ number={4},
 pages={329-344},
 year={2008},
 doi={10.1515/RJNAMM.2008.020},
-area={tensors},
+area={tensors,chemistry},
 }
 
 
@@ -374,7 +373,7 @@ address="Kowloon Tong, Hong Kong",
 year="2008",
 url="http://www.math.hkbu.edu.hk/ICM/pdf/08-10.pdf",
 newversion = {gostz-maxvol-2010},
-area={tensors},
+area={matrices},
 }
 
 @techreport{khst-eigen-2008pre,
@@ -516,8 +515,6 @@ area={tensors},
 }
 
 
-
-
 @article{ot-tt-2009,
 author={Oseledets, I. V. and Tyrtyshnikov, E. E.},
 title={Breaking the curse of dimensionality, or how to use {SVD} in many dimensions},
@@ -534,7 +531,7 @@ database={wos,scopus},
 
 @article{osel-log-2009eng,
 author={Oseledets, I. V.},
-title={Approximation of matrices with  logarithmic number of parameters},
+title={Approximation of matrices with logarithmic number of parameters},
 journal={Doklady Math.},
 volume={428},
 number={1},
@@ -620,7 +617,7 @@ address="Kowloon Tong, Hong Kong",
 year="2009",
 url="www.math.hkbu.edu.hk/ICM/pdf/09-04.pdf",
 newversion={ost-chem-2009},
-area={tensors},
+area={tensors,chemistry},
 }
 
 @article{osel-newten-2009eng,
@@ -647,7 +644,7 @@ number={6},
 pages={935-952},
 year={2010},
 doi={10.1002/nla.682},
-area={tensors},
+area={tensors,chemistry},
 database={wos,scopus},
 }
 
@@ -743,7 +740,7 @@ number="4",
 pages="375-393",
 year="2010",
 doi={10.1515/rjnamm.2010.024},
-area={tensors},
+area={tensors,misc},
 }
 
 @techreport{gos-kryl-2010pre,
@@ -757,7 +754,7 @@ year="2010",
 url="http://pub.inm.ras.ru",
 note="arXiv:1004.1986",
 newversion={gos-kryl-2012},
-area={tensors},
+area={tensors,chemistry},
 }
 
 
@@ -797,7 +794,7 @@ institution="MPI MIS",
 address="Leipzig",
 year="2010",
 url={http://www.mis.mpg.de/preprints/2010/preprint2010_69.pdf},
-area={tensors},
+area={tensors,chemistry},
 }
 
 @techreport{khkaz-lap-2010-preprint,
@@ -1373,7 +1370,6 @@ url = {http://arxiv.org/abs/1207.4343},
 }
 
 %2013
-%http://arxiv.org/abs/1301.1058
 
 @techreport{olub-ksl-2013pre,
 title = {A projector-splitting integrator for dynamical low-rank approximation},
@@ -1396,6 +1392,7 @@ number={1301.6068},
 year={2013},
 url = {http://arxiv.org/abs/1301.6068},
 area={tensors},
+newversion={ds-amen-2014}
 }
 
 @techreport{ds-amr2-2013,
@@ -1407,6 +1404,7 @@ institution = {},
 year={2013},
 url = {http://arxiv.org/abs/1304.1222},
 area={tensors},
+newversion={ds-amen-2014}
 }
 
 @article{dk-qtt-tucker-2013,
@@ -1487,7 +1485,8 @@ area={tensors,toeplitz},
  number={1308.0724},
  year={2013},
  url = {http://arxiv.org/abs/1308.0724},
- area = {tensors,toeplitz}
+ area = {tensors,toeplitz},
+ newversion={fsz-ttoep-2014}
 }
 
 @techreport{kvaos-wtt-2013,
@@ -1518,7 +1517,8 @@ area={tensors,toeplitz},
   volume={235},
   pages={121-129},
   year={2013},
-  doi={10.1016/j.jmr.2013.07.011}
+  doi={10.1016/j.jmr.2013.07.011},
+  area={tensors,chemistry}
 }
 
 
@@ -1602,7 +1602,7 @@ type={{arXiv} preprint},
 number={1312.6542},
 year={2013},
 url = {http://arxiv.org/abs/1312.6542},
-area={tensors,dmrg},
+area={tensors},
 newversion={ds-dmrgamen-2014},
 }
 
@@ -1617,9 +1617,7 @@ newversion={ds-dmrgamen-2014},
   newversion={dkh-cme-2014},
 }
 
-%
-%% 2014
-%
+%2014
 @article{rst-volterra-2014,
  author={Roberts, J. A. and Savostyanov, D. V. and Tyrtyshnikov, E. E.},
  title={Superfast solution of linear convolutional {Volterra} equations using {QTT} approximation},
@@ -1628,6 +1626,7 @@ newversion={ds-dmrgamen-2014},
  pages={434-448},
  year={2014},
  doi={10.1016/j.cam.2013.10.025},
+ area={tensors}
 }
 
 @article{dkos-eigb-2014,
@@ -1639,7 +1638,7 @@ newversion={ds-dmrgamen-2014},
  number={4},
  pages={1207-1216},
  doi={10.1016/j.cpc.2013.12.017},
- area={tensors,dmrg},
+ area={tensors,chemistry},
  oldversion={dkos-eigb2013pre},
  affiliation={skoltech,inm},
  database = {scopus},
@@ -1680,9 +1679,10 @@ oldversion={dst-fb-2013pre},
   year={2014},
   institution = {},
   url = {http://arxiv.org/abs/1402.4516},
-  area = {tensors},
+  area = {tensors,chemistry},
   newversion={sdwk-nmr-2014},
 }
+
 @article{sdwk-nmr-2014,
   author={Savostyanov, D. V. and Dolgov, S. V. and Werner, J. M. and Kuprov, Ilya},
   title={Exact {NMR} simulation of protein-size spin systems using tensor train formalism},
@@ -1691,7 +1691,7 @@ oldversion={dst-fb-2013pre},
   pages={085139},
   year={2014},
   doi={10.1103/PhysRevB.90.085139},
-  area = {tensors},
+  area = {tensors,chemistry},
   oldversion={sdwk-nmr-2014pre},
 }
 
@@ -1725,7 +1725,7 @@ title={Corrected one-site density matrix renormalization group and alternating m
 booktitle = {Proc. {ENUMATH} 2013, accepted},
 year = {2014},
 url = {http://arxiv.org/abs/1312.6542},
-area={tensors,dmrg},
+area={tensors},
 oldversion={ds-dmrgamen-2013pre},
 }
 
@@ -1763,6 +1763,7 @@ oldversion={ds-dmrgamen-2013pre},
  pages={107-113},
  year={2014},
  doi={10.1016/j.jmr.2014.04.002},
+ area={tensors,chemistry}
 }
 
 
@@ -1774,6 +1775,7 @@ oldversion={ds-dmrgamen-2013pre},
  pages={217-244},
  year={2014},
  doi={10.1016/j.laa.2014.06.006},
+ area={tensors},
  oldversion={sav-qott-2013pre}
 }
 
@@ -1797,6 +1799,7 @@ journal={Numer. Linear Algebra Appl.},
 doi = {10.1002/nla.1942},
 pages = {n/a--n/a},
 year = {2014},
+area = {tensors,chemistry}
 }
 
 
@@ -1824,7 +1827,7 @@ year = {2014},
 }
 
 @techreport{zyokd-ttcircuit-2014,
-    author = {Zheng, Zhang and Yang, Xiu and Oseledets, Ivan V. and Karniadakis, George Em and Daniel, Luca},
+  author = {Zheng, Zhang and Yang, Xiu and Oseledets, Ivan V. and Karniadakis, George Em and Daniel, Luca},
   title = {Enabling high-dimensional hierarchical uncertainty quantification by {ANOVA} and {Tensor-Train} decomposition},
   type={{arXiv} preprint},
   number={1407.3023},
