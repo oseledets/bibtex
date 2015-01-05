@@ -1571,14 +1571,15 @@ affiliation = {skoltech,inm},
     newversion = {bot-kryl-2014},
     url = {http://eprints.eemcs.utwente.nl/23803/01/memo2017.pdf},
 }
-@techreport{bo-retract-2013,
+@techreport{ao-retract-2013pre,
      author = {Absil, P. -A. and Oseledets, I. V.},
       title = "Low-rank retractions: a survey and new results",
        institution = "U.C.Louvain",
         year = 2013,
          number = "UCL-INMA-2013.04-v1",
           month = "October",
-           url = "http://sites.uclouvain.be/absil/2013.04",
+          newversion = {ao-retract-2014},
+          url = "http://sites.uclouvain.be/absil/2013.04",
 }
 
 
@@ -1719,17 +1720,6 @@ oldversion={dst-fb-2013pre},
 }
 
 
-@inproceedings{ds-dmrgamen-2014,
-author={Dolgov, S. V. and Savostyanov, D. V.},
-title={Corrected one-site density matrix renormalization group and alternating minimal energy algorithm},
-booktitle = {Proc. {ENUMATH} 2013, accepted},
-year = {2014},
-url = {http://arxiv.org/abs/1312.6542},
-area={tensors},
-oldversion={ds-dmrgamen-2013pre},
-}
-
-
 @techreport{d-tamen-2014,
   author = {Dolgov, S. V.},
   title = {Alternating minimal energy approach to {ODEs} and conservation laws in tensor product formats},
@@ -1748,7 +1738,7 @@ oldversion={ds-dmrgamen-2013pre},
     area = {matrices},
     journal = {Comput. Math. Appl.},
     doi = {10.1016/j.camwa.2014.03.002},
-    newversion = {bot-kryl-2013pre},
+    oldversion = {bot-kryl-2013pre},
     impact = {2.069},
     volume = {67},
     number = {2},
@@ -1826,15 +1816,15 @@ area = {tensors,chemistry}
   notes = {submitted to {SIAM J. Numer. Anal.}},
 }
 
-@techreport{zyokd-ttcircuit-2014,
-  author = {Zheng, Zhang and Yang, Xiu and Oseledets, Ivan V. and Karniadakis, George Em and Daniel, Luca},
+@techreport{zyokd-ttcircuit-2014pre,
+    author = {Zheng, Zhang and Yang, Xiu and Oseledets, Ivan V. and Karniadakis, George Em and Daniel, Luca},
   title = {Enabling high-dimensional hierarchical uncertainty quantification by {ANOVA} and {Tensor-Train} decomposition},
   type={{arXiv} preprint},
   number={1407.3023},
   year={2014},
   institution = {},
   area = {tensors,stochastic},
-  notes = {submitted to {IEEE T. Comput. Aid. D.}},
+  newversion = {zyokd-ttcircuit-2014},
   url = {http://arxiv.org/abs/1407.3023},
 }
 
@@ -1881,6 +1871,19 @@ area={tensors},
     url = {http://arxiv.org/abs/1410.3335},
     area = {matrices},
 }
+@article{zyokd-ttcircuit-2014,
+    author = {Zheng, Zhang and Yang, Xiu and Oseledets, Ivan V. and Karniadakis, George Em and Daniel, Luca},
+  title = {Enabling high-dimensional hierarchical uncertainty quantification by {ANOVA} and {Tensor-Train} decomposition},
+  year={2014},
+  journal = {IEEE Trans. Comput-aided Des. Integr. Circuits Syst.},
+  volume = {99},
+  number = {},
+  area = {tensors,stochastic},
+  oldversion = {zyokd-ttcircuit-2014pre},
+  url = {http://arxiv.org/abs/1407.3023},
+  doi = {10.1109/TCAD.2014.2369505},
+
+}
 
 @phdthesis{dc-phd,
 author={Dolgov, S. V.},
@@ -1888,18 +1891,6 @@ title={Tensor product methods in numerical simulation of high-dimensional dynami
 school={University of Leipzig},
 year={2014},
 url={http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa-151129}
-}
-@manual{o-ttpy-2014,
-    title={ttpy v. 0.9},
-    author={Oseledets, I. and Dolgov, S. and Savostyanov, D. and Saluev, T.},
-    url = {http://github.com/oseledets/ttpy},
-    year={2014}
-}
-@manual{o-tt2.2-2014,
-    title={TT-Toolbox v2.2},
-    author={Oseledets, I. and Dolgov, S. and Savostyanov, D. and Kazeev, V.},
-    url = {http://github.com/oseledets/TT-Toolbox},
-    year={2014}
 }
 
 @article{fsz-ttoep-2014,
@@ -1914,4 +1905,63 @@ url={http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa-151129}
  area = {tensors,toeplitz},
  oldversion={fsz-ttoep-2013pre},
 }
+@techreport{oko-reprank-2014pre,
+    author = {Ovchinnikov, G. V. and Kolesnikov, D. A. and Oseledets, I. V.},
+    title = {Algebraic reputation model {RepRank} and its application to spambot detection},
+    type = {{arXiv} preprint},
+    number = {1411.5995},
+    year = {2014},
+    institution = {},
+    url = {http://arxiv.org/abs/1411.5995},
+    area = {matrices,graphs},
+}
+@techreport{so-revschur-2014pre,
+    author = {Sushnikova, Daria and Oseledets, Ivan V.},
+    title = {Preconditioners for hierarchical matrices based on their extended sparse form},
+    type = {{arXiv} preprint},
+    number = {1412.1253},
+    year = {2014},
+    institution = {},
+    url = {http://arxiv.org/abs/1412.1253},
+    area = {matrices},
 
+
+}
+@article{ao-retract-2014,
+     author = {Absil, P. -A. and Oseledets, I. V.},
+      title = "Low-rank retractions: a survey and new results",
+        year = 2014,
+        journal = {Comput. Optim. Appl.},
+        doi = {10.1007/s10589-014-9714-4},
+        oldversion={ao-retract-2013pre},
+        url = "http://sites.uclouvain.be/absil/2013.04",
+}
+
+@techreport{lgrol-cnntensor-2014pre,
+    author = {Lebedev, Vadim and Ganin, Yaroslav and Rakhuba, Maxim and Oseledets, Ivan and Lempitsky, Victor},
+    title = {Speeding up convolutional neural networks using fine-tuned {CP-decomposition}},
+    type = {{arXiv} preprint},
+    number = {1412.6553},
+    year = {2014},
+    institution = {},
+    url = {http://arxiv.org/abs/1412.6553},
+    area = {tensors},
+
+
+}
+
+%
+%% 2015
+%
+
+@inproceedings{ds-dmrgamen-2015,
+author={Dolgov, S. V. and Savostyanov, D. V.},
+title={Corrected one-site density matrix renormalization group and alternating minimal energy algorithm},
+booktitle = {Numerical Mathematics and Advanced Applications --- {ENUMATH} 2013},
+volume={103},
+pages={335-343},
+year = {2015},
+area={tensors},
+oldversion={ds-dmrgamen-2013pre},
+doi={10.1007/978-3-319-10705-9_33}
+}
