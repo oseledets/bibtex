@@ -446,7 +446,7 @@ year="2000"
 @article{bebe-2000,
   title={Approximation of boundary element matrices},
   author={Bebendorf, M.},
-  journal={Numer. Mathem.},
+  journal={Numer. Math},
   volume={86},
   number={4},
   pages={565--589},
@@ -724,7 +724,7 @@ year="2004",
 }
 
 @article{griebel-sparsegrids-2004,
- author={Bungatrz, Hans-Joachim and Griebel, Michael},
+ author={Bungatrz, H.-J. and Griebel, M.},
  title={Sparse grids},
  journal={Acta Numerica},
  year={2004},
@@ -752,7 +752,7 @@ year="2004",
 }
 
 @article{Maday-eim-2004,
-author = "Maxime Barrault and Yvon Maday and Ngoc Cuong Nguyen and Anthony T. Patera",
+author = "M. Barrault and Y. Maday and N. C. Nguyen and A. T. Patera",
 title = "An ``empirical interpolation'' method: application to efficient reduced-basis discretization of partial differential equations",
 journal = "Comptes Rendus Mathematique",
 volume = "339",
@@ -1443,7 +1443,7 @@ doi={10.1109/iscas.2009.5118377}
 
 %%%2010
 @article{lubich-koch-dynten-2010,
-  author = {Koch, Ottmar and Lubich, Christian},
+  author = {Koch, O. and Lubich, Ch.},
   title = {Dynamical tensor approximation},
   journal = {SIAM J. Matrix Anal. Appl.},
   year = {2010},
@@ -2266,12 +2266,13 @@ url = {http://arxiv.org/abs/1310.2736},
 area={tensors, chemistry},
 }
 
-@techreport{ballani-adapttree-2013,
+@techreport{ballani-adapttree-2013pre,
   title={Tree Adaptive Approximation in the Hierarchical Tensor Format},
   author={Ballani, Jonas and Grasedyck, Lars},
   type={RWTH preprint},
   number={141},
-  year={2013}
+  year={2013},
+  newversion={ballani-adapttree-2014},
 }
 
 @article{uschmajew-approx-rate-2013,
@@ -2308,6 +2309,18 @@ doi = {10.1093/imanum/drs047},
  year={2014},
  publisher={Springer},
  doi={10.1007/978-3-319-08159-5_10}
+}
+
+@article{ballani-adapttree-2014,
+author = {J. Ballani and L. Grasedyck},
+title = {Tree Adaptive Approximation in the Hierarchical Tensor Format},
+journal = {SIAM J. Sci. Comput.},
+volume = {36},
+number = {4},
+pages = {A1415-A1431},
+year = {2014},
+doi = {10.1137/130926328},
+oldversion={ballani-adapttree-2013pre},
 }
 
 @techreport{kressner-evamen-2013pre,
@@ -2377,13 +2390,14 @@ type = {MPI Preprint},
 url={http://www2.mpi-magdeburg.mpg.de/preprints/2013/MPIMD13-08.pdf},
 }
 
-@techreport{benner-spde-2013,
+@techreport{benner-spde-2013pre,
 author = {Benner, P. and Onwunta, A. and Stoll, M.},
 title =  {Low rank solution of unsteady diffusion equations with stochastic coefficients},
 number = {13},
 year = {2013},
 type = {MPI Preprint},
 url={http://www2.mpi-magdeburg.mpg.de/preprints/2013/MPIMD13-13.pdf},
+newversion={benner-spde-2015},
 }
 
 @techreport{benner-selfshift-2013,
@@ -2469,12 +2483,14 @@ doi = "10.1016/j.cpc.2014.08.015",
 }
 
 
-@article{bachmayr-lowrank-2014,
-author={Bachmayr, Markus and Dahmen, Wolfgang},
+@article{bachmayr-lowrank-2015,
+author={Bachmayr, M. and Dahmen, W.},
 title={Adaptive Near-Optimal Rank Tensor Approximation for High-Dimensional Operator Equations},
-journal={Foundations of Computational Mathematics},
-pages={1-60},
-year={2014},
+journal={Found. Comput. Math.},
+pages={839-898},
+volume={15},
+issue={4},
+year={2015},
 doi={10.1007/s10208-013-9187-3},
 }
 
@@ -2690,3 +2706,25 @@ doi = {10.1137/15M1019271},
     pages={852--872},
     year={2015},
 }
+
+@article{benner-spde-2015,
+author = {P. Benner and A. Onwunta and M. Stoll},
+title = {Low-Rank Solution of Unsteady Diffusion Equations with Stochastic Coefficients},
+journal = {SIAM/ASA Journal on Uncertainty Quantification},
+volume = {3},
+number = {1},
+pages = {622-649},
+year = {2015},
+doi = {10.1137/130937251},
+oldversion={benner-spde-2013pre},
+}
+
+@techreport{Eigel-bayes-2017,
+ author={Eigel, M. and Marschall, M. and Schneider, R.},
+ title={Sampling-free {B}ayesian inversion with a hierarchical tensor representation},
+ type={WIAS Preprint},
+ number={2363},
+ year={2017},
+ doi={10.20347/WIAS.PREPRINT.2363},
+}
+
