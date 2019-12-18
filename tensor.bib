@@ -2089,6 +2089,17 @@ school={Uni. Leipzig, Faculty of Mathematics and Informatics},
 year={2012},
 }
 
+@InProceedings{hackbusch-sg-cp-2012,
+author="Hackbusch, W.",
+editor="Garcke, J. and Griebel, M.",
+title="The Use of Sparse Grid Approximation for the r-Term Tensor Representation",
+booktitle="Sparse Grids and Applications",
+publisher="Springer Berlin Heidelberg",
+pages="151--159",
+year="2013",
+doi="10.1007/978-3-642-31703-3_7",
+}
+
 
 %%% 2013
 @manual{sorber-tensorlab-2013,
@@ -2267,7 +2278,7 @@ area={tensors, chemistry},
 @article{uschmajew-approx-rate-2013,
 title = {Approximation rates for the hierarchical tensor format in periodic Sobolev spaces },
 author = {Schneider, R. and Uschmajew, A.},
-journal = {Journal of Complexity},
+journal = {J. Complexity},
 year = {2013},
 doi = {10.1016/j.jco.2013.10.001},
 }
@@ -2286,6 +2297,17 @@ doi = {10.1093/imanum/drs047},
     booktitle={Proceedings of the 30th International Conference on Machine Learning (ICML-13)},
     pages={334--342},
     year={2013}
+}
+
+@article{solomonik-cyclops-2014,
+author = "Edgar Solomonik and Devin Matthews and Jeff R. Hammond and John F. Stanton and James Demmel",
+title = "A massively parallel tensor contraction framework for coupled-cluster computations",
+journal = "Journal of Parallel and Distributed Computing",
+volume = "74",
+number = "12",
+pages = "3176 - 3190",
+year = "2014",
+doi = "10.1016/j.jpdc.2014.06.002",
 }
 
 @inproceedings{lars-review-2014,
@@ -2601,7 +2623,7 @@ newversion={nobile-sg-mc-2016},
 
 @techreport{kormann-tt-vlasov-2014,
 author={Kormann, Katharina},
-title={A semi-Lagrangian Vlasov solver in tensor train format},
+title={A semi--Lagrangian Vlasov solver in tensor train format},
 type={{arXiv} preprint},
 number={1408.7006},
 year={2014},
@@ -2634,6 +2656,17 @@ doi={10.1137/140971270}
         pages = "564--583",
         year = "2015",
         doi = "10.1002/nla.1973",
+}
+
+@article{grasedyck-par-cross-2015,
+author={Grasedyck, L. and Kriemann, R. and L{\"o}bbert, C. and N{\"a}gel, A. and Wittum, G. and Xylouris, K.},
+title={Parallel tensor sampling in the hierarchical {Tucker} format},
+journal={Computing and Visualization in Science},
+volume={17},
+number={2},
+pages={67--78},
+year={2015},
+doi={10.1007/s00791-015-0247-x},
 }
 
 @article{Serkan-QRpivot-2016,
@@ -2714,17 +2747,18 @@ doi = {10.1137/15M1019271},
 @article{bg-htcross-2015,
     title={Hierarchical tensor approximation of output quantities of parameter-dependent {PDEs}},
     author={Ballani, Jonas and Grasedyck, Lars},
-    journal={{SIAM/ASA} Journal on Uncertainty Quantification},
+    journal={{SIAM/ASA} J. Uncertainty Quantification},
     volume={3},
     number={1},
     pages={852--872},
     year={2015},
+    doi = {10.1137/140960980},
 }
 
 @article{benner-spde-2015,
 author = {P. Benner and A. Onwunta and M. Stoll},
 title = {Low-Rank Solution of Unsteady Diffusion Equations with Stochastic Coefficients},
-journal = {SIAM/ASA Journal on Uncertainty Quantification},
+journal = {SIAM/ASA J. Uncertainty Quantification},
 volume = {3},
 number = {1},
 pages = {622-649},
@@ -2742,6 +2776,17 @@ publisher="Springer International Publishing",
 pages="191--220",
 }
 
+@article{etter-par-als-2016,
+author = {Etter, S.},
+title = {Parallel {ALS} Algorithm for Solving Linear Systems in the Hierarchical {Tucker} Representation},
+journal = {SIAM J. Sci. Comput.},
+volume = {38},
+number = {4},
+pages = {A2585-A2609},
+year = {2016},
+doi = {10.1137/15M1038852},
+}
+
 @techreport{Eigel-bayes-2017,
  author={Eigel, M. and Marschall, M. and Schneider, R.},
  title={Sampling-free {B}ayesian inversion with a hierarchical tensor representation},
@@ -2749,6 +2794,7 @@ pages="191--220",
  number={2363},
  year={2017},
  doi={10.20347/WIAS.PREPRINT.2363},
+ newversion={Eigel-bayes-2018},
 }
 
 @article{bachmayr-sparse-or-lr-2017,
@@ -2769,3 +2815,16 @@ doi = {10.1093/imanum/drx052},
  year={2017},
  doi={10.1080/03081087.2016.1267104}
 }
+
+@article{Eigel-bayes-2018,
+author = {M. Eigel and M. Marschall and R. Schneider},
+title = {Sampling-free Bayesian inversion with adaptive hierarchical tensor representations},
+journal = {Inverse Problems},
+volume = {34},
+number = {3},
+pages = {035010},
+year = 2018,
+doi = {10.1088/1361-6420/aaa998},
+oldversion={Eigel-bayes-2017},
+}
+
