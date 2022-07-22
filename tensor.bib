@@ -2206,13 +2206,14 @@ oldversion={larskres-survey-2013pre},
   newversion={kkns-cme-2014},
 }
 
-@techreport{kkns-cme-theory-2013,
+@techreport{kkns-cme-theory-2013pre,
   title={Tensor approximation of stationary distributions of chemical reaction networks},
   author={Kazeev, V. and Schwab, C.},
   type={Research Report},
   number={18},
   year={2013},
-  institution={SAM, ETH Z\"{u}rich}
+  institution={SAM, ETH Z\"{u}rich},
+  newversion={kkns-cme-theory-2015},
 }
 
 @article{lars-htcross-2013,
@@ -2376,6 +2377,19 @@ oldversion="bebe-maca-2013pre",
     pages={133--166},
     year={2013},
 }
+
+@Article{KSV-completion-2014,
+author={Kressner, Daniel and Steinlechner, Michael and Vandereycken, Bart},
+title={Low-rank tensor completion by {R}iemannian optimization},
+journal={BIT Numerical Mathematics},
+volume={54},
+number={2},
+pages={447-468},
+year={2014},
+doi={10.1007/s10543-013-0455-z},
+}
+
+
 @article{eldensavas-krylov-2013,
   title={Krylov-type methods for tensor computations {I}},
   author={Savas, B. and Eld{\'e}n, L.},
@@ -2570,8 +2584,20 @@ number={1405.5713},
 year={2014},
 area = {tensros},
 url = {http://arxiv.org/abs/1405.5713},
+newversion={marzouk-stt-2016},
 }
 
+@article{marzouk-stt-2016,
+  title={Spectral tensor-train decomposition},
+  author={Bigoni, Daniele and Engsig-Karup, Allan P and Marzouk, Youssef M},
+  journal={SIAM J. Sci. Comput.},
+  volume={38},
+  number={4},
+  pages={A2405--A2439},
+  year={2016},
+  doi={10.1137/15M1036919},
+  oldversion={marzouk-stt-2014pre},
+}
 
 @techreport{bonkress-ttmom-2014pre,
     author={Bonizzoni, Francesca and Nobile, Fabio and Kressner, Daniel},
@@ -2712,6 +2738,18 @@ doi = {10.1137/15M1019271},
  url = {http://arxiv.org/abs/1406.7825},
 }
 
+@article{kkns-cme-theory-2015,
+author = {Kazeev, Vladimir and Schwab, Christoph},
+title = {Tensor Approximation of Stationary Distributions of Chemical Reaction Networks},
+journal = {SIAM Journal on Matrix Analysis and Applications},
+volume = {36},
+number = {3},
+pages = {1221-1247},
+year = {2015},
+doi = {10.1137/130927218},
+oldversion={kkns-cme-theory-2013pre},
+}
+
 @article{bokh-surv-2015,
 	author = {Khoromskij, B. N.},
 	title = {Tensor numerical methods for multidimensional {PDE}s: theoretical analysis and initial applications},
@@ -2799,6 +2837,18 @@ year = {2016},
 doi = {10.1137/15M1038852},
 }
 
+@article{Steinlechner-completion-2016,
+author = {Steinlechner, Michael},
+title = {Riemannian Optimization for High-Dimensional Tensor Completion},
+journal = {SIAM Journal on Scientific Computing},
+volume = {38},
+number = {5},
+pages = {S461-S484},
+year = {2016},
+doi = {10.1137/15M1010506},
+}
+
+
 @techreport{Eigel-bayes-2017,
  author={Eigel, M. and Marschall, M. and Schneider, R.},
  title={Sampling-free {B}ayesian inversion with a hierarchical tensor representation},
@@ -2850,3 +2900,58 @@ doi = {10.1088/1361-6420/aaa998},
 oldversion={Eigel-bayes-2017},
 }
 
+@article{Eigel-VMC-2019,
+title={Variational {Monte} {Carlo}-bridging concepts of machine learning and high-dimensional partial differential equations},
+author={Eigel, Martin and Schneider, Reinhold and Trunschke, Philipp and Wolf, Sebastian},
+journal={Advances in Computational Mathematics},
+volume={45},
+number={5},
+pages={2503-2532},
+year={2019},
+doi={10.1007/s10444-019-09723-8},
+}
+
+@Article{kramer-SALSA-2019,
+author={Grasedyck, Lars and Kr{\"a}mer, Sebastian},
+title={Stable {ALS} approximation in the {TT}-format for rank-adaptive tensor completion},
+journal={Numerische Mathematik},
+volume={143},
+number={4},
+pages={855-904},
+year={2019},
+doi={10.1007/s00211-019-01072-4},
+}
+
+
+
+@techreport{oss-hjb0-2019,
+    title={Approximating the Stationary {Bellman} Equation by Hierarchical Tensor Products},
+    author={Mathias Oster and Leon Sallandt and Reinhold Schneider},
+    institution = {},
+    year = {2019},
+    type = {{arXiv} preprint},
+    number = {1911.00279},
+    url = {http://arxiv.org/abs/1911.00279},
+}
+
+
+
+@techreport{oss-hjbt-2021,
+    title={Approximating optimal feedback controllers of finite horizon control problems using hierarchical tensor formats},
+    author={Mathias Oster and Leon Sallandt and Reinhold Schneider},
+    institution = {},
+    year = {2021},
+    type = {{arXiv} preprint},
+    number = {2104.06108},
+    url = {http://arxiv.org/abs/2104.06108},
+}
+
+@techreport{foss-exittime-2020,
+    title={Approximative Policy Iteration for Exit Time Feedback Control Problems driven by Stochastic Differential Equations using {Tensor} {Train} format},
+    author={Konstantin Fackeldey and Mathias Oster and Leon Sallandt and Reinhold Schneider},
+    institution = {},
+    year = {2020},
+    type = {{arXiv} preprint},
+    number = {2010.04465},
+    url = {http://arxiv.org/abs/2010.04465},
+}
