@@ -3416,7 +3416,7 @@ doi={10.1007/s10208-021-09537-5},
 oldversion={dc-dirt-2020},
 }
 
-@techreport{ado-ttrisk-2021,
+@techreport{ado-ttrisk-2021pre,
     title={{TTRISK}: {Tensor} {Train} Decomposition Algorithm for Risk Averse Optimization},
     author={H. Antil and S. Dolgov and A. Onwunta},
     institution = {}, 
@@ -3424,6 +3424,7 @@ oldversion={dc-dirt-2020},
     type = {{arXiv} preprint}, 
     number = {2111.05180},
     url = {http://arxiv.org/abs/2111.05180},
+    newversion={ado-ttrisk-2023},
 }
 
 @techreport{cdo-cond-dirt-2021pre,
@@ -3449,7 +3450,7 @@ oldversion = {cdo-cond-dirt-2021pre},
 }
 
 
-@techreport{cds-dirt-rare-2022,
+@techreport{cds-dirt-rare-2022pre,
     title={Deep importance sampling using tensor-trains with application to a priori and a posteriori rare event estimation},
     author={T. Cui and S. Dolgov and R. Scheichl},
     institution = {}, 
@@ -3457,9 +3458,10 @@ oldversion = {cdo-cond-dirt-2021pre},
     type = {{arXiv} preprint}, 
     number = {2209.01941},
     url = {http://arxiv.org/abs/2209.01941},
+    newversion={cds-dirt-rare-2024},
 }
 
-@techreport{dks-gradient-cross-2022,
+@techreport{dks-gradient-cross-2022pre,
     title={Data-driven {Tensor Train} Gradient Cross Approximation for {Hamilton-Jacobi-Bellman} Equations},
     author={S. Dolgov and D. Kalise and L. Saluzzi},
     institution = {}, 
@@ -3467,6 +3469,7 @@ oldversion = {cdo-cond-dirt-2021pre},
     type = {{arXiv} preprint}, 
     number = {2205.05109},
     url = {http://arxiv.org/abs/2205.05109},
+    newversion={dks-gradient-cross-2023},
 }
 
 @article{Gourianov-quant-nature-2022,
@@ -3505,9 +3508,12 @@ oldversion={rdgs-tt-gauss-2020pre},
 @article{tgdq-asd-2022,
 author = {O. Townsend and S. Gazzola and S. Dolgov and P. Quinn},
 title = {Undersampling Raster Scans in Spectromicroscopy for reduced dose and faster measurements},
-journal = {Optics Express (accepted)},
+journal = {Optics Express},
+number = {24},
+volume = {30},
+pages = {43237--43254},
 year = {2022},
-url = {https://arxiv.org/abs/2208.09470},
+url = {https://opg.optica.org/oe/abstract.cfm?URI=oe-30-24-43237},
 }
 
 @inproceedings{scspco-ttopt-2022,
@@ -3520,6 +3526,31 @@ url = {https://arxiv.org/abs/2208.09470},
  url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/a730abbcd6cf4a371ca9545db5922442-Paper-Conference.pdf},
 }
 
+@article{dks-gradient-cross-2023,
+author = {Dolgov, S. and Kalise, D. and Saluzzi, L.},
+title = {Data-Driven {Tensor Train} Gradient Cross Approximation for {Hamilton–Jacobi–Bellman} Equations},
+journal = {SIAM Journal on Scientific Computing},
+volume = {45},
+number = {5},
+pages = {A2153-A2184},
+year = {2023},
+doi = {10.1137/22M1498401},
+oldversion={dks-gradient-cross-2022pre},
+}
+@article{ado-ttrisk-2023,
+author = {Antil, Harbir and Dolgov, Sergey and Onwunta, Akwum},
+title = {{TTRISK}: {Tensor train} decomposition algorithm for risk averse optimization},
+journal = {Numerical Linear Algebra with Applications},
+volume = {30},
+number = {3},
+pages = {e2481},
+year = {2023},
+doi = {https://doi.org/10.1002/nla.2481},
+oldversion={ado-ttrisk-2021pre},
+}
+
+
+
 @techreport{bcro-protes-2023,
     title={{PROTES:} Probabilistic Optimization with Tensor Sampling},
     author={A. Batsheva and A. Chertkov and G. Ryzhakov and I. Oseledets},
@@ -3529,6 +3560,45 @@ url = {https://arxiv.org/abs/2208.09470},
     number = {2301.12162},
     url = {http://arxiv.org/abs/2301.12162},
 }
+
+@techreport{dks-spod-2023,
+    title={Statistical Proper Orthogonal Decomposition for model reduction in feedback control},
+    author={Sergey Dolgov and Dante Kalise and Luca Saluzzi},
+    institution = {},
+    year = {2023},
+    type = {{arXiv} preprint},
+    number = {2311.16332},
+    url = {https://arxiv.org/abs/2311.16332},
+}
+@techreport{cdz-polydirt-2023,
+    title={Self-reinforced polynomial approximation methods for concentrated probability densities},
+    author={Tiangang Cui and Sergey Dolgov and Olivier Zahm},
+    institution = {},
+    year = {2023},
+    type = {{arXiv} preprint},
+    number = {2303.02554},
+    url = {https://arxiv.org/abs/2303.02554},
+}
+@techreport{kdbsp-wsek-2023,
+    title={A weighted subspace exponential kernel for support tensor machines},
+    author={Kirandeep Kour and Sergey Dolgov and Peter Benner and Martin Stoll and Max Pfeffer},
+    institution = {},
+    year = {2023},
+    type = {{arXiv} preprint},
+    number = {2302.08134},
+    url = {https://arxiv.org/abs/2302.08134},
+}
+@article{kdsb-dusk-2023,
+  author  = {Kirandeep Kour and Sergey Dolgov and Martin Stoll and Peter Benner},
+  title   = {Efficient Structure-preserving Support {Tensor Train} Machine},
+  journal = {Journal of Machine Learning Research},
+  year    = {2023},
+  volume  = {24},
+  number  = {4},
+  pages   = {1--22},
+  url     = {http://jmlr.org/papers/v24/20-1310.html}
+}
+
 @article{ds-ttsir-2024,
   title={Tensor product approach to modelling epidemics on networks},
   author={Dolgov, Sergey and Savostyanov, Dmitry},
@@ -3539,8 +3609,17 @@ url = {https://arxiv.org/abs/2208.09470},
   doi={10.1016/j.amc.2023.128290},
   oldversion={ds-ttsir-2022pre}
 }
-
-
+@article{cds-dirt-rare-2024,
+author = {Cui, Tiangang and Dolgov, Sergey and Scheichl, Robert},
+title = {Deep Importance Sampling Using {Tensor Trains} with Application to a Priori and a Posteriori Rare Events},
+journal = {SIAM Journal on Scientific Computing},
+volume = {46},
+number = {1},
+pages = {C1-C29},
+year = {2024},
+doi = {10.1137/23M1546981},
+oldversion={cds-dirt-rare-2022pre},
+}
 
 # Eternal
 @misc{tt-toolbox,
